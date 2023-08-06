@@ -16,7 +16,12 @@ Tsinghua University
 Email:liuchong961230@gmail.com
 GitHub:github.com/Chong-THU
 ```
+<br/>
+<br/>
+
 ## Education
+
+------
 
 ### Degree
 
@@ -48,7 +53,12 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 > Liu, Chong and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” China Review of Political Economy [TOP Field], 13 (6): 146-174
 
+<br/>
+<br/>
+
 ## Working Papers
+
+-----
 
 > Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
 
@@ -69,11 +79,19 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 > Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
 
+<br/>
+<br/>
+
 ## Work in Progress
+
+-----
 
 > Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
 > Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
+
+<br/>
+<br/>
 
 ## Professional Activities
 
@@ -83,9 +101,13 @@ Macroeconomic Eﬀiciency Measurement and International Comparison (with 200,000
 
 Domestic Demand and Investment-Driven Economic Growth (with 5,000 RMB Fund Support)
 
+<br/>
+
 ### Referee
 
 *China Review of Political Economy* , *Political Economy Quarterly* , *Journal of Digital Economy*
+
+<br/>
 
 ### Seminar and Conference Presentation
 
@@ -107,7 +129,12 @@ Characteristics (in Chinese), Youth Annual Meeting of Political Economics (in Ch
 **Software Copyright:**
 iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.2023SR0635576)
 
+<br/>
+<br/>
+
 ## Honors and Awards
+
+-----
 
 ### Scholarship
 
@@ -125,6 +152,8 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2016 Tsinghua University: Scholarship for Overall Development
 
+<br/>
+
 ### Academic Achievement
 
 2023 Tsinghua University: **Zijing Scholar** ( **Postdoctoral Funding TOP Award** , **ONLY 4** )
@@ -139,6 +168,8 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2019 Tsinghua University Comprehensive Thesis Training: Excellent Graduation Thesis
 
+<br/>
+
 ### Leadership and Social Influence
 
 2022 Tsinghua University: **Lin Feng Counselor Award** ( **ONLY 10** )
@@ -147,7 +178,12 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2018 School of Social Sciences: Student of the Year
 
+<br/>
+<br/>
+
 ## Teaching
+
+-----
 
 2022 - 2023: Textbook Author
 
@@ -166,7 +202,12 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 - Undergraduate Public Speaking Workshop Series, Tsinghua University
 
+<br/>
+<br/>
+
 ## Public Services
+
+-----
 
 2016 - 2023 Shing-Tung Yau College Student Mathematics Contest: Host
 
@@ -178,7 +219,12 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2013 - 2014 Student Council of The High School Aﬀiliated to Renmin University of China: President
 
+<br/>
+<br/>
+
 ## Skills
+
+-----
 
 Data Analysis: MATLAB, R, STATA, SPSS
 
@@ -186,11 +232,18 @@ Others: Python, C++, LATEX, Git/GitHub
 
 ## Languages
 
+-----
+
 Chinese: Native
 
 English: IELTS Overall Band Score 7.5 / 9.
 
+<br/>
+<br/>
+
 ## References
+
+-----
 
 ### Bangxi Li (Advisor)
 
@@ -216,8 +269,6 @@ xxxx
 
 Email: xxxx
 
-
-Email: xxxx
 
 
 
