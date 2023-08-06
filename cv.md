@@ -7,7 +7,9 @@ permalink: /cv_en/
 # Chong Liu
 
 Institute of Economics, School of Social Sciences
+
 Tsinghua University
+
 220 Mingzhai Building, Beijing, China 100084
 
 ```
@@ -34,16 +36,13 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 ## Pulications
 
-```
-Li, Bangxi, Chong Liu, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” Economic Research Journal [TOP], 54 (3): 181-193
-```
+> Li, Bangxi, Chong Liu, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” Economic Research Journal [TOP], 54 (3): 181-193
+
 - Translated into English and Reprinted in 2021 by _China Political Economy_ , 4 (1): 110-127
 - **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
     China (2012 - 2019)
 
-```
-Liu, Chong and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” China Review of Political Economy [TOP Field], 13 (6): 146-174
-```
+> Liu, Chong and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” China Review of Political Economy [TOP Field], 13 (6): 146-174
 
 ## Working Papers
 
@@ -86,16 +85,17 @@ Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expendit
 
 ## Professional Activities
 
-**Principal Investigator:**
+### Principal Investigator
+
 Macroeconomic Eﬀiciency Measurement and International Comparison (with 200,000 RMB Fund Support)
 
 Domestic Demand and Investment-Driven Economic Growth (with 5,000 RMB Fund Support)
 
-**Referee:**
+### Referee
 
 *China Review of Political Economy* , *Political Economy Quarterly* , *Journal of Digital Economy*
 
-**Seminar and Conference Presentation:**
+### Seminar and Conference Presentation
 
 2023: International Conference of Government and Economics, Toyama Seminar on Political Economy,
 CASFE Annual Meeting (in Chinese), Fuzhou University SEM Seminar (in Chinese)
@@ -117,7 +117,7 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 ## Honors and Awards
 
-**Scholarship:**
+### Scholarship
 
 2022 Tsinghua University: Scholarship for Overall Development
 
@@ -133,7 +133,7 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2016 Tsinghua University: Scholarship for Overall Development
 
-**Academic Achievement:**
+### Academic Achievement
 
 2023 Tsinghua University: **Zijing Scholar** ( **Postdoctoral Funding TOP Award** , **ONLY 4** )
 
@@ -147,7 +147,7 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2019 Tsinghua University Comprehensive Thesis Training: Excellent Graduation Thesis
 
-**Leadership and Social Influence:**
+### Leadership and Social Influence
 
 2022 Tsinghua University: **Lin Feng Counselor Award** ( **ONLY 10** )
 
@@ -189,11 +189,13 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 ## Skills
 
 Data Analysis: MATLAB, R, STATA, SPSS
+
 Others: Python, C++, LATEX, Git/GitHub
 
 ## Languages
 
 Chinese: Native
+
 English: IELTS Overall Band Score 7.5 / 9.
 
 ## References
@@ -201,19 +203,27 @@ English: IELTS Overall Band Score 7.5 / 9.
 ### Bangxi Li (Advisor)
 
 Tsinghua University
+
 220 Mingzhai Building, Beijing, China 100084
+
 Email:libangxi@tsinghua.edu.cn
 
 ### Feng Zhao
 
 Renmin University of China
+
 736 Mingde Building, Beijing, China 100086
+
 Email:zhaofeng_economics@163.com
 
 ### Dic Lo
 
 School of Oriental and African Studies
+
 xxxx
+
 Email: xxxx
+
+
 
 
