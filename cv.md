@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
 # Chong Liu
 
 Institute of Economics, School of Social Sciences
