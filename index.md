@@ -10,6 +10,7 @@ layout: base
 
 
 # Chong Liu
+# 刘充
 
 ```
 Institute of Economics, School of Social Sciences
@@ -18,9 +19,13 @@ Tsinghua University
 Email: liuchong961230@gmail.com
 ```
 
+<br/>
+
 <div  align="center"> 
 <img src="zhaopian.JPG" width = "200" height = "200"/>
 </div>
+
+<br/>
 
 Welcome!
 
@@ -44,6 +49,8 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
 我致力于从马克思主义政治经济学的视角分析现实问题并提出解决方案，同时推动与主流经济学之间的批判性与建设性的对话。
 
+<br/>
+<br/>
 
 ## Pulications
 ## 期刊论文
