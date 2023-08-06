@@ -61,7 +61,7 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 -----
 
-> Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
+> Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)[link](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)
 
 - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 - Available at SSRN: https://ssrn.com/abstract=3679853
