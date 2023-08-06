@@ -6,32 +6,30 @@ permalink: /cv_en/
 
 # Chong Liu
 
+```
 Institute of Economics, School of Social Sciences
-
 Tsinghua University
-
 220 Mingzhai Building, Beijing, China 100084
+Email: liuchong961230@gmail.com
+```
 
-```
-Tele: +86 13520324718
-Mail: liuchong961230@gmail.com
-LinkedIn: https://www.linkedin.com/in/liu-chong-tsinghua/
-GitHub: https://github.com/Chong-THU/
-```
+[CV](https://github.com/Chong-THU/LiuChong/blob/master/file/CV_4.0_LaTeX.pdf)
+
+## Edudation
+
+------
 
 ### Degree
 
-2019 - 2023 Tsinghua University: Ph.D. in Economics
+2019 - 2023 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
 
-2015 - 2019 Tsinghua University: B.A. in Economics
+2015 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: B.A. in Economics
+
+2012 - 2015 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ)
 
 ### Short-term International Exchange
 
-Waseda University (2019)
-
-University of Chicago (2018)
-
-Technische Universität München (2017)
+Waseda University (2019), University of Chicago (2018), Technische Universität München (2017)
 
 <br/>
 <br/>
@@ -51,13 +49,13 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 ------
 
-> Li, Bangxi, Chong Liu, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” Economic Research Journal [TOP], 54 (3): 181-193 [[link](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
+1. Li, Bangxi, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” ***Economic Research Journal [TOP]***, 54 (3): 181-193 [[ERJ2019](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
 
-- Translated into English and Reprinted in 2021 by _China Political Economy_ , 4 (1): 110-127
-- **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
+   - **Translated into English and Reprinted** in 2021 by _China Political Economy_ , 4 (1): 110-127 [[CPE2021](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
+   - **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
     China (2012 - 2019)
 
-> Liu, Chong and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” China Review of Political Economy [TOP Field], 13 (6): 146-174
+1. <u>Liu, Chong</u> and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” ***China Review of Political Economy [TOP Field]***, 13 (6): 146-174 [[CRPE2022](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
 
 <br/>
 <br/>
@@ -66,24 +64,24 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 -----
 
-> Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
+1. Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
 
-- Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
-- Available at SSRN: https://ssrn.com/abstract=3679853
+   - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
+   - Available at SSRN: https://ssrn.com/abstract=3679853
 
-> Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
+2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
-- **R&R** on **_Social Sciences in China_** **[TOP]**
+   - **R&R** on **_Social Sciences in China_** **[TOP]**
 
-> Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
+3. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
 
-- Received by **_Journal of Management World_** **[TOP]**
+   - Received by **_Journal of Management World_** **[TOP]**
 
-> Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
+4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
-- Received by **_Economic Perspectives_** **[TOP Field]**
+   - Received by **_Economic Perspectives_** **[TOP Field]**
 
-> Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
+5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
 
 <br/>
 <br/>
@@ -92,15 +90,16 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 -----
 
-> Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
+1. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
-> Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
+2. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
 
 <br/>
 <br/>
 
 ## Professional Activities
 
+-----
 ### Principal Investigator
 
 Macroeconomic Eﬀiciency Measurement and International Comparison (with 200,000 RMB Fund Support)
@@ -111,7 +110,11 @@ Domestic Demand and Investment-Driven Economic Growth (with 5,000 RMB Fund Suppo
 
 ### Referee
 
-*China Review of Political Economy* , *Political Economy Quarterly* , *Journal of Digital Economy*
+*Journal of Digital Economy*
+
+*China Review of Political Economy* (in Chinese)
+
+*Political Economy Quarterly* (in Chinese)
 
 <br/>
 
@@ -132,8 +135,9 @@ Characteristics (in Chinese), Youth Annual Meeting of Political Economics (in Ch
 
 2018: AOM Annual Meeting, China Young Economists Forum (in Chinese)
 
-**Software Copyright:**
-iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.2023SR0635576)
+### Software Copyright
+
+iMarx Macroeconomic Eﬀiciency Calculation Tool (Registration No.2023SR0635576) [[iMarx Tool](http://39.98.141.84:3838/iMarxTool/)]
 
 <br/>
 <br/>
@@ -193,20 +197,19 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool *iMarx Tool*(Registration No.20
 
 2022 - 2023: Textbook Author
 
-- Introduction to Mathematical Political Economy (in Chinese, with Bangxi Li, Forthcoming,
-  Tsinghua University Press)
+   - Introduction to Mathematical Political Economy (in Chinese, with Bangxi Li, Forthcoming, Tsinghua University Press)
 
 2018 - 2023: Teaching Assistant
 
-- Humanitas Tsinghua (Senior Professor of Liberal Arts Forum)
+   - Humanitas Tsinghua (Senior Professor of Liberal Arts Forum)
 
 2020 - 2021: Teaching Assistant
 
-- Graduate Mathematical Political Economy, Tsinghua University
+   - Graduate Mathematical Political Economy, Tsinghua University
 
 2017 - 2021 Senior Lecturer
 
-- Undergraduate Public Speaking Workshop Series, Tsinghua University
+   - Undergraduate Public Speaking Workshop Series, Tsinghua University
 
 <br/>
 <br/>
@@ -249,36 +252,3 @@ English: IELTS Overall Band Score 7.5 / 9.
 
 <br/>
 <br/>
-
-## References
-
------
-
-### Bangxi Li (Advisor)
-
-Tsinghua University
-
-220 Mingzhai Building, Beijing, China 100084
-
-Email:libangxi@tsinghua.edu.cn
-
-### Feng Zhao
-
-Renmin University of China
-
-736 Mingde Building, Beijing, China 100086
-
-Email:zhaofeng_economics@163.com
-
-### Dic Lo
-
-School of Oriental and African Studies
-
-xxxx
-
-Email: xxxx
-
-
-
-
-
