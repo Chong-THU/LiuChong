@@ -44,7 +44,12 @@ Political Economy, Mathematical Marxian Economics, Post-Keynesian School of Econ
 Development Economics, Labor Economics, Cultural Economics
 China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
+<br/>
+<br/>
+
 ## Pulications
+
+------
 
 > Li, Bangxi, Chong Liu, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” Economic Research Journal [TOP], 54 (3): 181-193 [[link](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
 
