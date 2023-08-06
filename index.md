@@ -37,6 +37,8 @@ I am a Ph.D at Institute of Economics, School of Social Sciences, Tsinghua Unive
 
 You can find my CV [here](https://github.com/Chong-THU/LiuChong/blob/master/file/CV_4.0_LaTeX.pdf).
 
+你可以在[这里](https://github.com/Chong-THU/LiuChong/blob/master/file/CV_4.0_LaTeX.pdf)下载我的简历。
+
 My research focuses on Mathematical Marxian Economics and Political Economy.
 
 我的研究领域是数理马克思经济学和政治经济学。
@@ -96,13 +98,13 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
    
    纳税优惠与投资驱动型经济增长：来自中国加速折旧政策的经验证据（合作者：李帮喜、沈煌南）
 
-   \- Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
+   - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 
-    \- 入选**顶级国际会议美国经济学会年会（2020）**并做口头汇报
+        入选**顶级国际会议美国经济学会年会（2020）**并做口头汇报
 
-   \- Available at SSRN: https://ssrn.com/abstract=3679853
+   - Available at SSRN: https://ssrn.com/abstract=3679853
 
-    \- 在线发表于SSRN平台
+        在线发表于SSRN平台
 
 <br/>
 
@@ -110,9 +112,9 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
     实体经济与虚拟化问题研究：理论框架与指标构建（合作者：李帮喜、陈亮）
 
-    \- **R&R** on **_Social Sciences in China_** **[TOP]**
+    - **R&R** on **_Social Sciences in China_** **[TOP]**
 
-    \- 投稿在《中国社会科学》并获得第二轮积极意见
+        投稿在《中国社会科学》并获得第二轮积极意见
 
 <br/>
 
@@ -144,6 +146,8 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 1. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
     区域协同发展与宏观效率空间溢出效应：基于分省投入产出表2002～2017的经验研究
+
+<br/>
 
 2. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
 
