@@ -8,6 +8,6 @@
 layout: base
 ---
 
-![photo](/Users/vcvcvn/lc_data/resume/shenghuozhao.jpg)
+![photo](shenghuozhao.jpg)
 
 Hello everyone! Welcome to my little home
