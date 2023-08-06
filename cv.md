@@ -39,7 +39,9 @@ Waseda University (2019), University of Chicago (2018), Technische Universität 
 ------
 
 Political Economy, Mathematical Marxian Economics, Post-Keynesian School of Economics
+
 Development Economics, Labor Economics, Cultural Economics
+
 China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 <br/>
@@ -51,8 +53,9 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 1. Li, Bangxi, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” ***Economic Research Journal [TOP]***, 54 (3): 181-193 [[ERJ2019](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
 
-   - **Translated into English and Reprinted** in 2021 by _China Political Economy_ , 4 (1): 110-127 [[CPE2021](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
-   - **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
+   \- **Translated into English and Reprinted** in 2021 by _China Political Economy_ , 4 (1): 110-127 [[CPE2021](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
+   
+   \- **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
     China (2012 - 2019)
 
 1. <u>Liu, Chong</u> and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” ***China Review of Political Economy [TOP Field]***, 13 (6): 146-174 [[CRPE2022](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
@@ -66,20 +69,21 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 1. Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
 
-   - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
-   - Available at SSRN: https://ssrn.com/abstract=3679853
+   \- Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
+
+   \- Available at SSRN: https://ssrn.com/abstract=3679853
 
 2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
-   - **R&R** on **_Social Sciences in China_** **[TOP]**
+   \- **R&R** on **_Social Sciences in China_** **[TOP]**
 
 3. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
 
-   - Received by **_Journal of Management World_** **[TOP]**
+   \- Received by **_Journal of Management World_** **[TOP]**
 
 4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
-   - Received by **_Economic Perspectives_** **[TOP Field]**
+   \- Received by **_Economic Perspectives_** **[TOP Field]**
 
 5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
 
@@ -197,19 +201,19 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool (Registration No.2023SR0635576)
 
 2022 - 2023: Textbook Author
 
-   - Introduction to Mathematical Political Economy (in Chinese, with Bangxi Li, Forthcoming, Tsinghua University Press)
+   \- Introduction to Mathematical Political Economy (in Chinese, with Bangxi Li, Forthcoming, Tsinghua University Press)
 
 2018 - 2023: Teaching Assistant
 
-   - Humanitas Tsinghua (Senior Professor of Liberal Arts Forum)
+   \- Humanitas Tsinghua (Senior Professor of Liberal Arts Forum)
 
 2020 - 2021: Teaching Assistant
 
-   - Graduate Mathematical Political Economy, Tsinghua University
+   \- Graduate Mathematical Political Economy, Tsinghua University
 
 2017 - 2021 Senior Lecturer
 
-   - Undergraduate Public Speaking Workshop Series, Tsinghua University
+   Undergraduate Public Speaking Workshop Series, Tsinghua University
 
 <br/>
 <br/>
