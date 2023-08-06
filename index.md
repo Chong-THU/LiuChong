@@ -11,7 +11,7 @@ layout: base
 
 # Chong Liu
 
-![photo](zhaopian.jpg)
+![photo](zhaopian.JPG)
 
 Welcome!
 
