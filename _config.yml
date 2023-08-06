@@ -2,8 +2,9 @@ title: 刘充的温馨小窝
 author:
   name: Liu Chong
   email: liuchong961230@gmail.com
-  phone: +86 13520324718
-  LinkedIn: https://www.linkedin.com/in/liu-chong-tsinghua/
+  tel: +86 13520324718
+  linken: https://www.linkedin.com/in/liu-chong-tsinghua/
+  git: https://github.com/Chong-THU/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
