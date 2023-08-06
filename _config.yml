@@ -1,14 +1,15 @@
-title: Your awesome title
+title: 刘充的温馨小窝
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Liu Chong
+  email: liuchong961230@gmail.com
+  phone: +86 13520324718
+  LinkedIn: https://www.linkedin.com/in/liu-chong-tsinghua/
+  GitHub: https://github.com/Chong-THU/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  子鼠丑牛寅虎卯兔辰龙巳蛇午马未羊申猴酉鸡虚构还住
 
 # Build settings
 
