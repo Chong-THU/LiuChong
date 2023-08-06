@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CV
+title: Liu Chong
 permalink: /cv/
 ---
-
-# Chong Liu
 
 Institute of Economics, School of Social Sciences
 Tsinghua University
