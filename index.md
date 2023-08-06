@@ -27,4 +27,5 @@ I also have interests in the topics on China’s Economy and the methods of post
 我也对中国经济问题和后凯恩斯学派方法感兴趣。
 
 I am committed to analyzing problems and proposing solutions from the perspective of Marxist Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
+
 我致力于从马克思主义政治经济学的视角分析现实问题并提出解决方案，同时推动与主流经济学之间的批判性与建设性的对话。
