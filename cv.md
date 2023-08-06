@@ -18,15 +18,19 @@ GitHub:github.com/Chong-THU
 ```
 ## Education
 
-**Degree:**
+### Degree
 
 2019 - 2023 Tsinghua University: Ph.D. in Economics
 
 2015 - 2019 Tsinghua University: B.A. in Economics
 
-**Short-term International Exchange:**
+### Short-term International Exchange
 
-Waseda University (2019), University of Chicago (2018), Technische Universität München (2017)
+Waseda University (2019)
+
+University of Chicago (2018)
+
+Technische Universität München (2017)
 
 ## Research Interests
 
@@ -46,42 +50,30 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 ## Working Papers
 
-```
-Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
-```
+> Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
+
 - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 - Available at SSRN: https://ssrn.com/abstract=3679853
 
-```
-Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
-```
+> Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
 - **R&R** on **_Social Sciences in China_** **[TOP]**
 
-```
-Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
-```
+> Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
 
 - Received by **_Journal of Management World_** **[TOP]**
 
+> Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
-```
-Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
-```
 - Received by **_Economic Perspectives_** **[TOP Field]**
 
-```
-Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
-```
+> Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
 
 ## Work in Progress
 
-```
-Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
-```
-```
-Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
-```
+> Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
+
+> Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
 
 ## Professional Activities
 
@@ -221,6 +213,9 @@ Email:zhaofeng_economics@163.com
 School of Oriental and African Studies
 
 xxxx
+
+Email: xxxx
+
 
 Email: xxxx
 
