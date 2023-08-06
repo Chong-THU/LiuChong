@@ -76,8 +76,6 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
         入选“中国政治经济学**最具影响力的学术论文**（2012～2019）”**前0.5%**（第15名 / 2952篇学术论文）
 
-<br/>
-
 1. <u>Liu, Chong</u> and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” ***China Review of Political Economy [TOP Field]***, 13 (6): 146-174 [[CRPE2022](https://github.com/Chong-THU/LiuChong/blob/master/file/CRPE2022.pdf)]
 
     刘充, 姜力榕. 法国调节学派：概念体系、理论演进与启示[J]. 政治经济学评论, 2022, 13 (6): 146-174.
@@ -106,9 +104,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
         在线发表于SSRN平台
 
-<br/>
-
-1. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
+2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
     实体经济与虚拟化问题研究：理论框架与指标构建（合作者：李帮喜、陈亮）
 
@@ -116,9 +112,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
         投稿在《中国社会科学》并获得第二轮积极意见
 
-<br/>
-
-1. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
+3. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
    
    固定资产投资、加速折旧与经济增长：理论框架与经验证据（合作者：李帮喜、赵峰）
 
@@ -127,8 +121,6 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
     虚拟资本与金融资本的研究新进展
-
-<br/>
 
 5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
 
@@ -146,8 +138,6 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 1. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
     区域协同发展与宏观效率空间溢出效应：基于分省投入产出表2002～2017的经验研究
-
-<br/>
 
 2. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
 
