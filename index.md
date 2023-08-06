@@ -155,20 +155,5 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
 <br/>
 <br/>
-
-
-## Work in Progress
-## 正在进行
-
------
-
-1. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
-
-    区域协同发展与宏观效率空间溢出效应：基于分省投入产出表2002～2017的经验研究
-
-2. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
-
-    马克思还是凯恩斯？内生化公共支出的数理模型修正（合作者：李帮喜、戈弋）
-
-<br/>
-<br/>
+=======
+>>>>>>> 1f503fa2bdf68e117aca33cdeb12f378e7ae74d1
