@@ -46,7 +46,7 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 ## Pulications
 
-> Li, Bangxi, Chong Liu, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” Economic Research Journal [TOP], 54 (3): 181-193
+> Li, Bangxi, Chong Liu, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” Economic Research Journal [TOP], 54 (3): 181-193 [[link](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
 
 - Translated into English and Reprinted in 2021 by _China Political Economy_ , 4 (1): 110-127
 - **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
@@ -61,7 +61,7 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 
 -----
 
-> Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)[link](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)
+> Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
 
 - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 - Available at SSRN: https://ssrn.com/abstract=3679853
