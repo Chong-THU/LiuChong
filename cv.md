@@ -13,15 +13,11 @@ Tsinghua University
 220 Mingzhai Building, Beijing, China 100084
 
 ```
-Email:liuchong961230@gmail.com
-GitHub:github.com/Chong-THU
+Tele: +86 13520324718
+Mail: liuchong961230@gmail.com
+LinkedIn: https://www.linkedin.com/in/liu-chong-tsinghua/
+GitHub: https://github.com/Chong-THU/
 ```
-<br/>
-<br/>
-
-## Education
-
-------
 
 ### Degree
 
@@ -37,7 +33,12 @@ University of Chicago (2018)
 
 Technische Universität München (2017)
 
+<br/>
+<br/>
+
 ## Research Interests
+
+------
 
 Political Economy, Mathematical Marxian Economics, Post-Keynesian School of Economics
 Development Economics, Labor Economics, Cultural Economics
