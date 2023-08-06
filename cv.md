@@ -231,6 +231,9 @@ Data Analysis: MATLAB, R, STATA, SPSS
 
 Others: Python, C++, LATEX, Git/GitHub
 
+<br/>
+<br/>
+
 ## Languages
 
 -----
