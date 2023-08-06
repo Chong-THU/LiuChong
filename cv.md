@@ -198,27 +198,22 @@ English: IELTS Overall Band Score 7.5 / 9.
 
 ## References
 
-> Bangxi Li (Advisor)
-> Tsinghua University
-> 220 Mingzhai Building, Beijing, China 100084
-> Email:libangxi@tsinghua.edu.cn
-> xxxx
-> Tsinghua University
-> xxxx
-> Email: xxxx
-> xxxx
-> Tsinghua University
-> xxxx
-> Email: xxxx
+### Bangxi Li (Advisor)
 
+Tsinghua University
+220 Mingzhai Building, Beijing, China 100084
+Email:libangxi@tsinghua.edu.cn
 
+### Feng Zhao
 
-Feng Zhao
 Renmin University of China
 736 Mingde Building, Beijing, China 100086
 Email:zhaofeng_economics@163.com
-Dic Lo
+
+### Dic Lo
+
 School of Oriental and African Studies
 xxxx
 Email: xxxx
+
 
