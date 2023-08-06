@@ -7,3 +7,7 @@
 #
 layout: base
 ---
+
+![](/Users/vcvcvn/lc_data/resume/shenghuozhao.jpg)
+
+Hello everyone! Welcome to my little home
