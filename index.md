@@ -13,12 +13,10 @@ layout: base
 # 刘充
 
 ```
-Institute of Economics, School of Social Sciences
-社科学院经济学研究所
-Tsinghua University
-清华大学
-220 Mingzhai Building, Beijing, China 100084
-北京市海淀区清华大学明斋 220（邮编：100084）
+Institute of Economics, School of Social Sciences, Tsinghua University
+清华大学社科学院经济学研究所
+220 Mingzhai Building, Tsinghua University, Beijing, China 100084
+北京市海淀区清华大学明斋 220 办公室（邮编：100084）
 Email: liuchong961230@gmail.com, tylch2@163.com
 邮箱：liuchong961230@gmail.com, tylch2@163.com
 ```
@@ -120,15 +118,13 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
    
    固定资产投资、加速折旧与经济增长：理论框架与经验证据（合作者：李帮喜、赵峰）
 
-<br/>
-
 4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
     虚拟资本与金融资本的研究新进展
 
 5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
 
-    生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示
+    生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示（合作者：姜力榕）
 
 <br/>
 <br/>
