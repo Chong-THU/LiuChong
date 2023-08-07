@@ -42,9 +42,10 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#   - about.md
-#   - cv.md
+header_pages:
+- 栏目 1.md
+- 栏目 2.md
+- iMarxTool.md
 
 # Set to `true` to show excerpts on the homepage.
 #
