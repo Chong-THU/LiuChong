@@ -33,9 +33,9 @@ Welcome!
 
 欢迎来到我的学术主页！
 
-I am a Ph.D at Institute of Economics, School of Social Sciences, Tsinghua University.
+I am a Ph.D candidate at Institute of Economics, School of Social Sciences, Tsinghua University.
 
-我是清华大学社科学院经济学研究所的博士。
+我是清华大学社科学院经济学研究所的博士候选人。
 
 You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_4.0_LaTeX.pdf).
 
@@ -45,7 +45,7 @@ My research focuses on Mathematical Marxian Economics and Political Economy.
 
 我的研究领域是数理马克思经济学和政治经济学。
 
-I also have interests in the topics on China’s Economy and the methods of post-Keynesian School of Economics.
+I also have interests in the topics on China’s Economy and the methods of Post-Keynesian Economics.
 
 我也对中国经济问题和后凯恩斯学派方法感兴趣。
 
@@ -61,7 +61,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
 ------
 
-1. Li, Bangxi, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” ***Economic Research Journal*** **[TOP]**, 54 (3): 181-193 [[ERJ2019](http://39.98.141.84:3838/iMarxTool/ERJ2019.pdf)]
+1. Li, Bangxi, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” ***Economic Research Journal*** [**TOP** Chinese Journal in Economics], 54 (3): 181-193 [[ERJ2019](http://39.98.141.84:3838/iMarxTool/ERJ2019.pdf)]
 
     **Abstract**: In the current literature, there is little systematic research on the relationship among adjustment of the income distribution, change in economic structure and improvement of macroeconomic efficiency. This paper expands Marx's reproduction schema into the “Marx–Sraffa” three-department structure table comprising fixed capital, general means of production and means of consumption and employs China's input–output table from 1987 to 2015 to portray the relationship between income distribution and macroeconomic efficiency under investment-driven growth. This paper calculates the wage–profit curve of China's economy and evaluates the space of macroeconomic efficiency improvement in China based on the deviation between actual and potential income distribution structure. The results show that there is a downward trend of the profit rate, which meets Marx's theoretical prediction, and the decline in the profit rate is mainly attributed to an increase in the organic composition of capital arising from the rapid growth of fixed capital investment under extended growth. The analysis of macroeconomic efficiency shows that the space for improving macroeconomic efficiency is extremely limited under traditional growth pattern and that China must transform its economic development pattern and foster new economic growth drivers.
 
@@ -78,7 +78,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
         入选“中国政治经济学**最具影响力的学术论文**（2012～2019）”**前0.5%**（第15名 / 2952篇学术论文）
 
-2. <u>Liu, Chong</u> and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” ***China Review of Political Economy*** **[TOP Field]**, 13 (6): 146-174 [[CRPE2022](http://39.98.141.84:3838/iMarxTool/CRPE2022.pdf)]
+2. <u>Liu, Chong</u> and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” ***China Review of Political Economy*** [**TOP Field** Chinese Journal in Economics], 13 (6): 146-174 [[CRPE2022](http://39.98.141.84:3838/iMarxTool/CRPE2022.pdf)]
 
     **Abstract**: Born in the economic crisis and crisis in economics in the 1970s, the French Regulation School (FRS), theoretically inspired by Marx and other radical economists, advocates studying the capitalist mode of production (CMP) as a historical process with the “Regulation Approach” as a leading paradigm. It is of great significance to examine the achievements and new progress of the FRS. This paper reviews the core concepts and theoretical evolution of the FRS from the perspective of Marx's economics. We find that the institutional forms, mode of regulation, and accumulation regime jointly determine the capitalist economy's self-regulation, self-renewal, and self-development, where five types of crises are also involved. There is a strong continuity of studies among scholars of different generations. The transformation from Fordism to Post-Fordism and exportism as a dominant mode of growth in the East Asian newly industrializing economies (EANICs) has attracted the attention of scholars in the 20th century while emphasizing the central role of the state in regulation is an essential theoretical turn in the 21st century. Regarding methodology, the FRS pays attention to complementary economic and extra-economic mechanisms, integrated micro and macro perspectives, historical induction, and contradiction analysis, all of which have rich reference significance for the innovation of Marxist economics.
 
@@ -110,7 +110,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
     实体经济与虚拟化问题研究：理论框架与指标构建（合作者：李帮喜、陈亮）
 
-    - **R&R** on **_Social Sciences in China_** **[TOP]**
+    - **R&R** on **_Social Sciences in China_** [**TOP** Chinese Journal in Social Sciences]
 
         投稿在《中国社会科学》并获得第二轮积极意见
 
@@ -122,9 +122,9 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
     虚拟资本与金融资本的研究新进展
 
-5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
+5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese)
 
-    生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示（合作者：姜力榕）
+    生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示
 
 <br/>
 <br/>
