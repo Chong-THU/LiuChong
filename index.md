@@ -98,11 +98,11 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
     折旧与投资驱动型经济增长的三大部类再生产模型
    
-   - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
+    - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 
       口头汇报于**美国经济学会年会**（2020）
 
-   -Available at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
+    - Available at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
 
       线上发表于SSRN平台
 
