@@ -104,7 +104,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
    -Available at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
 
-   -线上发表于SSRN平台-->
+      线上发表于SSRN平台
 
 3. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
