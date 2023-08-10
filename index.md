@@ -1,4 +1,4 @@
----
+![image](https://github.com/Chong-THU/LiuChong/assets/91450691/94f1361c-ceaf-4b26-b588-be09e26c012c)---
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
@@ -96,11 +96,17 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
 1. Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
 
+    折旧与投资驱动型经济增长的三大部类再生产模型
+   
    - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 
-   - Available at SSRN: https://ssrn.com/abstract=3679853
+      口头汇报于**顶级国际会议美国经济学会年会**（2020）
 
-2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
+   - Available at [SSRN](https://ssrn.com/abstract=3679853)
+
+      线上发表于[SSRN](https://ssrn.com/abstract=3679853)平台
+
+3. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
     实体经济与虚拟化问题研究：理论框架与指标构建（合作者：李帮喜、陈亮）
 
@@ -108,15 +114,15 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
         投稿在《中国社会科学》并获得第二轮积极意见
 
-3. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
+4. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
    
    固定资产投资、加速折旧与经济增长：理论框架与经验证据（合作者：李帮喜、赵峰）
 
-4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
+5. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
     虚拟资本与金融资本的研究新进展
 
-5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese)
+6. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese)
 
     生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示
 
