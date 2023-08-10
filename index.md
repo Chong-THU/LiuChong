@@ -100,7 +100,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
    
    - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 
-      口头汇报于**顶级国际会议美国经济学会年会**（2020）
+      口头汇报于**美国经济学会年会**（2020）
 
    - Available at [SSRN](https://ssrn.com/abstract=3679853)
 
