@@ -17,8 +17,8 @@ Institute of Economics, School of Social Sciences, Tsinghua University
 清华大学社科学院经济学研究所
 220 Mingzhai Building, Tsinghua University, Beijing, China 100084
 北京市海淀区清华大学明斋 220 办公室（邮编：100084）
+
 Email: liuchong961230@gmail.com, tylch2@163.com
-邮箱：liuchong961230@gmail.com, tylch2@163.com
 ```
 
 <br/>
