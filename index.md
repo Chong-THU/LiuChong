@@ -102,9 +102,9 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
       口头汇报于**美国经济学会年会**（2020）
 
-   - Available at [SSRN](https://ssrn.com/abstract=3679853)
+<!--Available at [SSRN](https://ssrn.com/abstract=3679853)-->
 
-      线上发表于[SSRN](https://ssrn.com/abstract=3679853)平台
+<!--线上发表于[SSRN](https://ssrn.com/abstract=3679853)平台-->
 
 3. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
