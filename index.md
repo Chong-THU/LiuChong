@@ -95,16 +95,10 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 -----
 
 1. Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
-   
-   纳税优惠与投资驱动型经济增长：来自中国加速折旧政策的经验证据（合作者：李帮喜、沈煌南）
 
    - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
 
-        入选**顶级国际会议美国经济学会年会（2020）**并做口头汇报
-
    - Available at SSRN: https://ssrn.com/abstract=3679853
-
-        在线发表于SSRN平台
 
 2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
