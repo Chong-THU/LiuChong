@@ -1,4 +1,3 @@
-![image](https://github.com/Chong-THU/LiuChong/assets/91450691/94f1361c-ceaf-4b26-b588-be09e26c012c)---
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
