@@ -100,23 +100,19 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
     - Available at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
 
-3. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
+2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
 
     实体经济与虚拟化问题研究：理论框架与指标构建（合作者：李帮喜、陈亮）
 
-    - **R&R** on **_Social Sciences in China_** [**TOP** Chinese Journal in Social Sciences]
-
-        投稿在《中国社会科学》并获得第二轮积极意见
-
-4. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
+3. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
    
    固定资产投资、加速折旧与经济增长：理论框架与经验证据（合作者：李帮喜、赵峰）
 
-5. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
+4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
     虚拟资本与金融资本的研究新进展
 
-6. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese)
+5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese)
 
     生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示
 
