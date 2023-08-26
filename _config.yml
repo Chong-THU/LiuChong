@@ -41,9 +41,9 @@ minima:
 # order as they should show up.
 #
 header_pages:
-- 栏目 1.md
-- 栏目 2.md
-- iMarxTool.md
+  - 栏目 1.md
+  - 栏目 2.md
+  - iMarxTool.md
 
 # Set to `true` to show excerpts on the homepage.
 #
