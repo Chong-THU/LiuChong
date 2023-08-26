@@ -1,7 +1,7 @@
 ---
 layout: base
 title: iMarxTool
-permalink: /cv_ch/
+permalink: /iMarxTool/
 ---
 
 欢迎使用[iMarxTool](http://39.98.141.84:3838/iMarxTool/)！
