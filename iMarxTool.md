@@ -1,3 +1,9 @@
+---
+layout: base
+title: iMarxTool
+permalink: /cv_ch/
+---
+
 欢迎使用[iMarxTool](http://39.98.141.84:3838/iMarxTool/)！
 
 iMarxTool由清华大学社会科学学院经济学研究所李帮喜副教授团队研究开发，主要贡献者是刘充，同时感谢徐光正的帮助；当然责任自负。
