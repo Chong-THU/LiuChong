@@ -37,9 +37,9 @@ I am a Ph.D candidate at Institute of Economics, School of Social Sciences, Tsin
 
 我是清华大学社科学院经济学研究所的博士候选人。
 
-You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_6.0_LaTeX.pdf).
+You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).
 
-你可以在[这里](http://39.98.141.84:3838/iMarxTool/CV_6.0_LaTeX.pdf)下载我的简历。
+你可以在[这里](http://39.98.141.84:3838/iMarxTool/简历_刘充.pdf)下载我的简历。
 
 My research focuses on Mathematical Marxian Economics and Political Economy.
 
