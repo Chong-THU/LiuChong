@@ -13,10 +13,12 @@ layout: base
 # 刘充
 
 ```
+Department of Land Economy, University of Cambridge
+19 Silver Street, Cambridge, CB3 9EP, United Kingdom
+剑桥大学土地经济系
 Institute of Economics, School of Social Sciences, Tsinghua University
+30 Shuangqing Road, Beijing, 100084, China
 清华大学社科学院经济学研究所
-220 Mingzhai Building, Tsinghua University, Beijing, China 100084
-北京市海淀区清华大学明斋 220 办公室（邮编：100084）
 
 Email: liuchong961230@gmail.com, tylch2@163.com
 ```
@@ -33,9 +35,9 @@ Welcome!
 
 欢迎来到我的学术主页！
 
-I am a Ph.D candidate at Institute of Economics, School of Social Sciences, Tsinghua University.
+I obtained my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
 
-我是清华大学社科学院经济学研究所的博士候选人。
+我是清华大学的经济学博士，目前在剑桥大学土地经济系开展博士后研究工作。
 
 You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).
 
@@ -108,13 +110,17 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
    
    固定资产投资、加速折旧与经济增长：理论框架与经验证据（合作者：李帮喜、赵峰）
 
-4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
+4. Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy (in Chinese)
+   
+   我国经济是否存在虚拟化问题？一个马克思主义政治经济学的比较分析
+
+5. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
     虚拟资本与金融资本的研究新进展
 
-5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese)
+6. The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian (in Chinese, with Bangxi Li)
 
-    生产理论视角下经济增长研究的比较分析：马克思、后凯恩斯的启示
+    生产理论视角下的经济增长研究：马克思、新古典与后凯恩斯（合作者：李帮喜）
 
 <br/>
 <br/>
@@ -125,13 +131,17 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 
 -----
 
-1. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
+1. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
+
+    马克思还是凯恩斯？内生化公共支出的数理模型修正（合作者：李帮喜、戈弋）
+    
+2. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
     区域协同发展与宏观效率空间溢出效应：基于分省投入产出表2002～2017的经验研究
 
-2. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
+3. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
 
-    马克思还是凯恩斯？内生化公共支出的数理模型修正（合作者：李帮喜、戈弋）
+    金融服务实体经济质效：虚拟资本理论视角下的经验研究
 
 <br/>
 <br/>
