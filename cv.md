@@ -112,7 +112,7 @@ Macroeconomic Eﬀiciency Measurement and International Comparison (with 200,000
 
 2022 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Scholarship for Overall Development
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学综合优秀奖学金
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学综合优秀奖学金
 
 2021 &nbsp; &nbsp; &nbsp; &nbsp; Ministry of Education: **National Scholarship**
 
