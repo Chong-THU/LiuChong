@@ -58,7 +58,7 @@ I am committed to analyzing problems and proposing solutions from the perspectiv
 <br/>
 <br/>
 
-## Pulications
+## Publications
 ## 期刊论文
 
 ------
