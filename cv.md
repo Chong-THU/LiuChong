@@ -1,19 +1,21 @@
 ---
 layout: base
 title: CV
-permalink: /cv_en/
+permalink: /cv/
 ---
 
-# Chong Liu
+You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).
 
-```
-Institute of Economics, School of Social Sciences
-Tsinghua University
-220 Mingzhai Building, Beijing, China 100084
-Email: liuchong961230@gmail.com
-```
+你可以在[这里](http://39.98.141.84:3838/iMarxTool/简历_刘充.pdf)下载我的简历。
 
-[CV](https://github.com/Chong-THU/LiuChong/blob/master/file/CV_4.0_LaTeX.pdf)
+## Edudation
+
+------
+
+2024 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Postdoctoral Researcher
+
+<br/>
+<br/>
 
 ## Edudation
 
@@ -21,82 +23,17 @@ Email: liuchong961230@gmail.com
 
 ### Degree
 
-2019 - 2023 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
+2019 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
 
 2015 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: B.A. in Economics
 
 2012 - 2015 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ)
 
+<br/>
+
 ### Short-term International Exchange
 
 Waseda University (2019), University of Chicago (2018), Technische Universität München (2017)
-
-<br/>
-<br/>
-
-## Research Interests
-
-------
-
-Political Economy, Mathematical Marxian Economics, Post-Keynesian School of Economics
-
-Development Economics, Labor Economics, Cultural Economics
-
-China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
-
-<br/>
-<br/>
-
-## Pulications
-
-------
-
-1. Li, Bangxi, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang. 2019. “Production Structure, Income Distribution and Macroeconomic Eﬀiciency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese).” ***Economic Research Journal [TOP]***, 54 (3): 181-193 [[ERJ2019](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
-
-   \- **Translated into English and Reprinted** in 2021 by _China Political Economy_ , 4 (1): 110-127 [[CPE2021](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
-   
-   \- **Ranked 15th** on Academic Influence among 2,952 Papers **[TOP 0.5%]** in Political Economy in
-    China (2012 - 2019)
-
-1. <u>Liu, Chong</u> and Lirong Jiang. 2022. “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment (in Chinese).” ***China Review of Political Economy [TOP Field]***, 13 (6): 146-174 [[CRPE2022](https://github.com/Chong-THU/LiuChong/blob/master/file/chinchilla_law.pdf)]
-
-<br/>
-<br/>
-
-## Working Papers
-
------
-
-1. Toward a Three-Sectoral Reproduction Model of Fixed Capital Depreciation and Investment-Driven Economic Growth: Theory and Policy Simulations from Chinese Input-Output Data (with Bangxi Li and Jim Huangnan Shen)
-
-   \- Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
-
-   \- Available at SSRN: https://ssrn.com/abstract=3679853
-
-2. Real Economy and Economic Fictionalization: Theoretical Framework and Indicator Construction (in Chinese, with Bangxi Li and Liang Chen)
-
-   \- **R&R** on **_Social Sciences in China_** **[TOP]**
-
-3. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese, with Bangxi Li and Feng Zhao)
-
-   \- Received by **_Journal of Management World_** **[TOP]**
-
-4. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
-
-   \- Received by **_Economic Perspectives_** **[TOP Field]**
-
-5. Comparative Analysis of Economic Growth Research from the Perspective of Production Theory: Enlightenment from Marx and Post-Keynes (in Chinese, with Lirong Jiang)
-
-<br/>
-<br/>
-
-## Work in Progress
-
------
-
-1. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
-
-2. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese, with Bangxi Li and Yi Ge)
 
 <br/>
 <br/>
@@ -107,8 +44,6 @@ China’s Economy, Industrial Economy, Fictitious Economy, Digital Economy
 ### Principal Investigator
 
 Macroeconomic Eﬀiciency Measurement and International Comparison (with 200,000 RMB Fund Support)
-
-Domestic Demand and Investment-Driven Economic Growth (with 5,000 RMB Fund Support)
 
 <br/>
 
@@ -124,8 +59,7 @@ Domestic Demand and Investment-Driven Economic Growth (with 5,000 RMB Fund Suppo
 
 ### Seminar and Conference Presentation
 
-2023: International Conference of Government and Economics, Toyama Seminar on Political Economy,
-CASFE Annual Meeting (in Chinese), Fuzhou University SEM Seminar (in Chinese)
+2023: International Conference of Government and Economics, Toyama Seminar on Political Economy, CASFE Annual Meeting (in Chinese), CAPE Annual Meeting (in Chinese)
 
 2022: Lindau Nobel Laureate Meeting on Economic Sciences, Toyama Seminar on Political Economy, Young Scholars Forum on Political Economy (in Chinese), CAPE Annual Meeting (in Chinese)
 
@@ -134,8 +68,7 @@ Economics (in Chinese)
 
 2020: ASSA Annual Meeting, International Conference on the Chinese Economy: Past, Present and Future, Forum on Comparison and Innovation of Marxist and Post-Keynesian Theories (in Chinese), CAPE Annual Meeting 2020 (in Chinese)
 
-2019: JSPKE International Symposium on Political Economy, Forum on Political Economy with Chinese
-Characteristics (in Chinese), Youth Annual Meeting of Political Economics (in Chinese)
+2019: JSPKE International Symposium on Political Economy, Forum on Political Economy with Chinese Characteristics (in Chinese), Youth Annual Meeting of Political Economics (in Chinese)
 
 2018: AOM Annual Meeting, China Young Economists Forum (in Chinese)
 
@@ -191,68 +124,6 @@ iMarx Macroeconomic Eﬀiciency Calculation Tool (Registration No.2023SR0635576)
 2021 Beijing Province: Excellent Student Leader
 
 2018 School of Social Sciences: Student of the Year
-
-<br/>
-<br/>
-
-## Teaching
-
------
-
-2022 - 2023: Textbook Author
-
-   \- Introduction to Mathematical Political Economy (in Chinese, with Bangxi Li, Forthcoming, Tsinghua University Press)
-
-2018 - 2023: Teaching Assistant
-
-   \- Humanitas Tsinghua (Senior Professor of Liberal Arts Forum)
-
-2020 - 2021: Teaching Assistant
-
-   \- Graduate Mathematical Political Economy, Tsinghua University
-
-2017 - 2021 Senior Lecturer
-
-   Undergraduate Public Speaking Workshop Series, Tsinghua University
-
-<br/>
-<br/>
-
-## Public Services
-
------
-
-2016 - 2023 Shing-Tung Yau College Student Mathematics Contest: Host
-
-2021 - 2023 WuYeShuo THU (Tsinghua Student New Media): Founder and Editor in Chief
-
-2020 - 2021 Youth League, School of Social Sciences, Tsinghua University: Secretary
-
-2019 - 2021 Class of 2023, School of Social Sciences, Tsinghua University: Counselor
-
-2013 - 2014 Student Council of The High School Aﬀiliated to Renmin University of China: President
-
-<br/>
-<br/>
-
-## Skills
-
------
-
-Data Analysis: MATLAB, R, STATA, SPSS
-
-Others: Python, C++, LATEX, Git/GitHub
-
-<br/>
-<br/>
-
-## Languages
-
------
-
-Chinese: Native
-
-English: IELTS Overall Band Score 7.5 / 9.
 
 <br/>
 <br/>

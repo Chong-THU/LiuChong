@@ -47,6 +47,7 @@ minima:
 #  - iMarxTool.md
 
 header_pages:
+- cv.md
 - 栏目 1.md
 - 栏目 2.md
 - iMarxTool.md

@@ -39,10 +39,6 @@ I obtained my Ph.D. in Economics from Tsinghua University. I am engaged in indep
 
 我是清华大学的经济学博士，目前在剑桥大学土地经济系开展博士后研究工作。
 
-You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).
-
-你可以在[这里](http://39.98.141.84:3838/iMarxTool/简历_刘充.pdf)下载我的简历。
-
 My research focuses on Mathematical Marxian Economics and Political Economy.
 
 我的研究领域是数理马克思经济学和政治经济学。
