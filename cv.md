@@ -16,9 +16,9 @@ You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).
 
 ------
 
-2024 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Postdoctoral Researcher
+2024 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Postdoctoral Researcher
 
-2024 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 剑桥大学：博士后
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 剑桥大学：博士后
 
 <br/>
 <br/>
@@ -28,29 +28,17 @@ You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).
 
 ------
 
-### Degree
-### 学位
-
 2019 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
 
-2019 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; 清华大学：经济学博士
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学：经济学博士
 
 2015 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: B.A. in Economics
 
-2015 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; 清华大学：经济学学士
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学：经济学学士
 
 2012 - 2015 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ)
 
-2012 - 2015 &nbsp; &nbsp; &nbsp; &nbsp; 中国人民大学附属中学（人大附中）
-
-<br/>
-
-### Short-term International Exchange
-### 短期国际交流
-
-Waseda University (2019), University of Chicago (2018), Technische Universität München (2017)
-
-日本早稻田大学（2019）、美国芝加哥大学（2018）、德国慕尼黑工业大学（2017）
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 中国人民大学附属中学（人大附中）
 
 <br/>
 <br/>
