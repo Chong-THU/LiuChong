@@ -39,13 +39,13 @@ I obtained my Ph.D. in Economics from Tsinghua University. I am engaged in indep
 
 我是清华大学的经济学博士，目前在剑桥大学土地经济系开展博士后研究工作。
 
-My research focuses on Mathematical Marxian Economics and Political Economy.
+My research focuses on Mathematical Approaches for Classical Political Economy, Marxian Economics and Post-Keynesian Economics.
 
-我的研究领域是数理马克思经济学和政治经济学。
+我的研究领域是数理政治经济学、马克思经济学和后凯恩斯经济学。
 
-I also have interests in the topics on China’s Economy and the methods of Post-Keynesian Economics.
+I also have interests in the topics on China’s Economy and the methods of Spacial Analysis.
 
-我也对中国经济问题和后凯恩斯学派方法感兴趣。
+我也对中国经济问题和空间分析方法感兴趣。
 
 I am committed to analyzing problems and proposing solutions from the perspective of Marxist Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
 
