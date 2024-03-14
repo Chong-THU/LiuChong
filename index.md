@@ -43,7 +43,7 @@ My research focuses on Mathematical Approaches for Classical Political Economy, 
 
 我的研究领域是数理政治经济学、马克思经济学和后凯恩斯经济学。
 
-I also have interests in the topics on China’s Economy and the methods of Spacial Analysis.
+I also have interests in the topics on China’s Economy and the methods of Spatial Analysis.
 
 我也对中国经济问题和空间分析方法感兴趣。
 
