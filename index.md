@@ -35,7 +35,7 @@ Welcome!
 
 欢迎来到我的学术主页！
 
-I obtained my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
+I earned my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
 
 我是清华大学的经济学博士，目前在剑桥大学土地经济系开展博士后研究工作。
 
