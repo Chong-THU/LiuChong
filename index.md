@@ -20,7 +20,7 @@ Institute of Economics, School of Social Sciences, Tsinghua University
 30 Shuangqing Road, Beijing, 100084, China
 清华大学社科学院经济学研究所
 
-Email: cl2009@cam.ac.uk, liuchong19@mails.tsinghua.edu.cn; liuchong961230@gmail.com
+Email: cl2009@cam.ac.uk, liuchong19@mails.tsinghua.edu.cn
 ```
 
 <br/>
