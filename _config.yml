@@ -41,15 +41,16 @@ minima:
 # order as they should show up.
 #
 
+
 # header_pages:
 #  - 栏目 1.md
 #  - 栏目 2.md
 #  - iMarxTool.md
 
 header_pages:
-- cv.md
-- 栏目 1.md
-- 栏目 2.md
+# - cv.md
+# - 栏目 1.md
+# - 栏目 2.md
 - iMarxTool.md
 
 
