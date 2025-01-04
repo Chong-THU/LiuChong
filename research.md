@@ -6,6 +6,8 @@ permalink: /research/
 
 # Research
 
+<br/>
+
 ## Publications
 
 ------

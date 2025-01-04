@@ -8,15 +8,14 @@
 layout: base
 ---
 
-# <font face=Times New Roman> Chong Liu </font>
+# Chong Liu
 
 ```
-<font face=Times New Roman> 
 Department of Land Economy, University of Cambridge
 19 Silver Street, Cambridge, CB3 9EP, United Kingdom
 
-Email: cl2009@cam.ac.uk
-</font>
+Email: <cl2009@cam.ac.uk>
+Website: <https://www.landecon.cam.ac.uk/person/chong-liu>
 ```
 
 <br/>
@@ -27,19 +26,15 @@ Email: cl2009@cam.ac.uk
 
 <br/>
 
-<font face=Times New Roman> 
-
 Welcome to my homepage!
 
 I earned my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
 
 My research focuses on <font color=red>**Mathematical Approaches for Classical Political Economy**</font>, Marxian Economics and Post-Keynesian Economics.
 
-I also have interests in the topics on China’s Economy and the methods of Spatial Analysis.
+I also have interests in the topics on <font color=red>China’s Economy</font> and the methods of <font color=red>Spatial Analysis</font>.
 
 I am committed to analyzing problems and proposing solutions from the perspective of Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
-
-</font>
 
 <br/>
 <br/>
