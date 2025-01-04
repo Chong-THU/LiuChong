@@ -42,7 +42,7 @@ permalink: /cv/
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **清华大学特等奖学金（本科生）**（**全校10人**）
 
-2021 &nbsp; &nbsp; &nbsp; &nbsp; Ministry of Education: **National Scholarship**
+2021 &nbsp; &nbsp; &nbsp; &nbsp; **National Scholarship**
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **国家奖学金（研究生）**
 

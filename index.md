@@ -14,8 +14,8 @@ layout: base
 Department of Land Economy, University of Cambridge
 19 Silver Street, Cambridge, CB3 9EP, United Kingdom
 
-Email: <cl2009@cam.ac.uk>
-Website: <https://www.landecon.cam.ac.uk/person/chong-liu>
+Email: [cl2009@cam.ac.uk](cl2009@cam.ac.uk)
+Website: [https://www.landecon.cam.ac.uk/person/chong-liu](https://www.landecon.cam.ac.uk/person/chong-liu)
 ```
 
 <br/>
@@ -30,7 +30,7 @@ Welcome to my homepage!
 
 I earned my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
 
-My research focuses on <font color=red>**Mathematical Approaches for Classical Political Economy**</font>, Marxian Economics and Post-Keynesian Economics.
+My research focuses on **<font color=red>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics and Post-Keynesian Economics.
 
 I also have interests in the topics on <font color=red>China’s Economy</font> and the methods of <font color=red>Spatial Analysis</font>.
 
