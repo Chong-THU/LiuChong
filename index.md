@@ -8,15 +8,15 @@
 layout: base
 ---
 
-<font face=Times New Roman>
-
-# Chong Liu
+# <font face=Times New Roman> Chong Liu </font>
 
 ```
+<font face=Times New Roman> 
 Department of Land Economy, University of Cambridge
 19 Silver Street, Cambridge, CB3 9EP, United Kingdom
 
 Email: cl2009@cam.ac.uk
+</font>
 ```
 
 <br/>
@@ -26,6 +26,8 @@ Email: cl2009@cam.ac.uk
 </div>
 
 <br/>
+
+<font face=Times New Roman> 
 
 Welcome to my homepage!
 
@@ -37,7 +39,7 @@ I also have interests in the topics on China’s Economy and the methods of Spat
 
 I am committed to analyzing problems and proposing solutions from the perspective of Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
 
-<br/>
-<br/>
-
 </font>
+
+<br/>
+<br/>
