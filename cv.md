@@ -8,14 +8,11 @@ permalink: /cv/
 
 <!--You can find my CV [here](http://39.98.141.84:3838/iMarxTool/CV_Chong_Liu.pdf).-->
 
-<br/>
-<br/>
-
 ## Appointments
 
 ------
 
-2024 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Postdoctoral Researcher
+2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Postdoctoral Researcher
 
 <br/>
 <br/>
@@ -24,11 +21,11 @@ permalink: /cv/
 
 ------
 
-2019 - 2024 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
+2019.08 - 2024.01 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
 
-2015 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: B.A. in Economics
+2015.08 - 2019.07 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: B.A. in Economics
 
-2012 - 2015 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ)
+2012.08 - 2015.07 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ)
 
 <br/>
 <br/>
