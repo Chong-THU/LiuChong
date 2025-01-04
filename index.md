@@ -30,7 +30,7 @@ Welcome to my homepage!
 
 I earned my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
 
-My research focuses on **<font color=#800080>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics and Post-Keynesian Economics.
+My research focuses on **<font color=purple>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics and Post-Keynesian Economics.
 
 I also have interests in the topics on <font color=#660874>China’s Economy</font> and the methods of <font color=#660874>Spatial Analysis</font>.
 
