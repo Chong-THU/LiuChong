@@ -3,8 +3,7 @@ author:
   name: Chong Liu
   email: cl2009@cam.ac.uk
   # tel: +44 07731 753809
-  git: https://chong-thu.github.io/LiuChong/
-  # https://www.landecon.cam.ac.uk/person/chong-liu
+  git: https://www.landecon.cam.ac.uk/person/chong-liu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
