@@ -12,7 +12,7 @@ iMarxTool 可以根据 “ 国家—年份 ” 层面的竞争型投入产出表
 
 - 全劳动生产率测算工具 iMarxTLP
 
-- &nbsp; “ 实体—虚拟 ” 经济关系测算工具 iMarxRFtable
+- &nbsp;“ 实体—虚拟 ” 经济关系测算工具 iMarxRFtable
 
 
 iMarxTool 是基于R语言编写的测算工具，需要调用CPU的多个核心进行并行计算，web端的部署由shiny框架实现。

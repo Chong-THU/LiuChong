@@ -60,7 +60,7 @@ permalink: /cv/
 
 2024 &nbsp; &nbsp; &nbsp; &nbsp; **Contemporary Economics Doctoral Innovation Project** ( National Award for Outstanding Doctoral Dissertation, **ONLY 10** )
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **“ 当代经济学博士创新项目 ”** （全国性基金奖励、**全国10人**）
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**“ 当代经济学博士创新项目 ”** （全国性基金奖励、**全国10人**）
 
 2023 &nbsp; &nbsp; &nbsp; &nbsp; **Tsinghua University: Zijing Scholar** ( **ONLY 4** )
 
