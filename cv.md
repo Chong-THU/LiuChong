@@ -60,11 +60,11 @@ permalink: /cv/
 
 2024 &nbsp; &nbsp; &nbsp; &nbsp; **Contemporary Economics Doctoral Innovation Project** ( National Award for Outstanding Doctoral Dissertation, **ONLY 10** )
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **“当代经济学博士创新项目”**（全国性基金奖励、**全国10人**）
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **“ 当代经济学博士创新项目 ”** （全国性基金奖励、**全国10人**）
 
 2023 &nbsp; &nbsp; &nbsp; &nbsp; **Tsinghua University: Zijing Scholar** ( **ONLY 4** )
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **清华大学“紫荆学者”**（**全校4人**）
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **清华大学 “ 紫荆学者 ”** （**全校4人**）
 
 2022 &nbsp; &nbsp; &nbsp; &nbsp; The 7th **Lindau Nobel Laureate Meeting** on Economic Sciences: **Young Economist**
 
@@ -72,7 +72,7 @@ permalink: /cv/
 
 2020 &nbsp; &nbsp; &nbsp; &nbsp; The 8th **WEI Xinghua Best Paper Award**
 
-2019 &nbsp; &nbsp; &nbsp; &nbsp; The 10th **“Challenge Cup”** Capital University Academic Competition: **TOP Prize**
+2019 &nbsp; &nbsp; &nbsp; &nbsp; The 10th **"Challenge Cup"** Capital University Academic Competition: **TOP Prize**
 
 2019 &nbsp; &nbsp; &nbsp; &nbsp; The 3rd Forum on Political Economy with Chinese Characteristics: First Place
 
