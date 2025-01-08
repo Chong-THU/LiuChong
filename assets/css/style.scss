@@ -6,6 +6,11 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+@font-face {
+    font-family: "FZXBS";
+    src: url("/assets/fonts/FZXBS.ttf");
+}
+
 body {
-    font-family: "Times New Roman";
+    font-family: "Times New Roman","FZXBS";
 }
