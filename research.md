@@ -38,11 +38,11 @@ permalink: /research/
    
     "Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach"
 
-    _Evolutionary and Institutional Economics Review_ [ESCI], Accepted.
+    **_Evolutionary and Institutional Economics Review_** [ESCI], Accepted.
 
     **Abstract**: Accelerated depreciation of fixed assets is a prominent tax reduction policy. While existing empirical studies have primarily focused on the micro perspective, there is a lack of literature systematically quantifying its macro-level economic impact. Based on Marxist political economy and drawing on Okishio’s theory of accumulation, we propose an analysis framework integrating the reproduction of fixed capital into the overall reproduction of aggregate social capital. This study aims to examine whether, and to what extent, accelerated depreciation can promote economic growth, using China’s input-output data from 1981 to 2020. The findings reveal that accelerated depreciation positively impacts economic growth, primarily driven by new investments. This impact becomes more significant as the depreciation period shortens. However, it is essential to note that shortening the depreciation period also leads to a negative adjustment effect due to increased costs. Theoretical implications for policymaking need a systematic perspective on the role of accelerated depreciation and investment-driven growth.
 
-    - Oral Presentation at **ASSA Annual Meeting** 2020
+    - Draft version presented at **ASSA Annual Meeting** 2020
 
     - Draft version avaliable at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
 
