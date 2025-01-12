@@ -105,7 +105,7 @@ permalink: /research/
 
 6. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
 
-7. Marx vs Hayek: Fictitious Capital and and the Crisis of Capitalism
+7. Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism
 
 <br/>
 <br/>
