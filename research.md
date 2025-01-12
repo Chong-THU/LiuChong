@@ -34,6 +34,18 @@ permalink: /research/
 
     **Abstract**: Born in the economic crisis and crisis in economics in the 1970s, the French Regulation School (FRS), theoretically inspired by Marx and other radical economists, advocates studying the capitalist mode of production (CMP) as a historical process with the “Regulation Approach” as a leading paradigm. It is of great significance to examine the achievements and new progress of the FRS. This paper reviews the core concepts and theoretical evolution of the FRS from the perspective of Marx's economics. We find that the institutional forms, mode of regulation, and accumulation regime jointly determine the capitalist economy's self-regulation, self-renewal, and self-development, where five types of crises are also involved. There is a strong continuity of studies among scholars of different generations. The transformation from Fordism to Post-Fordism and exportism as a dominant mode of growth in the East Asian newly industrializing economies (EANICs) has attracted the attention of scholars in the 20th century while emphasizing the central role of the state in regulation is an essential theoretical turn in the 21st century. Regarding methodology, the FRS pays attention to complementary economic and extra-economic mechanisms, integrated micro and macro perspectives, historical induction, and contradiction analysis, all of which have rich reference significance for the innovation of Marxist economics.
 
+3. <u>Chong Liu</u>, Bangxi Li and Jim Huangnan Shen.
+   
+    "Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach"
+
+    _Evolutionary and Institutional Economics Review_ [ESCI], Accepted.
+
+    **Abstract**: Accelerated depreciation of fixed assets is a prominent tax reduction policy. While existing empirical studies have primarily focused on the micro perspective, there is a lack of literature systematically quantifying its macro-level economic impact. Based on Marxist political economy and drawing on Okishio’s theory of accumulation, we propose an analysis framework integrating the reproduction of fixed capital into the overall reproduction of aggregate social capital. This study aims to examine whether, and to what extent, accelerated depreciation can promote economic growth, using China’s input-output data from 1981 to 2020. The findings reveal that accelerated depreciation positively impacts economic growth, primarily driven by new investments. This impact becomes more significant as the depreciation period shortens. However, it is essential to note that shortening the depreciation period also leads to a negative adjustment effect due to increased costs. Theoretical implications for policymaking need a systematic perspective on the role of accelerated depreciation and investment-driven growth.
+
+    - Oral Presentation at **ASSA Annual Meeting** 2020
+
+    - Draft version avaliable at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
+
 <br/>
 <br/>
 
@@ -41,41 +53,31 @@ permalink: /research/
 
 -----
 
-1. <u>Chong Liu</u>, Bangxi Li and Jim Huangnan Shen.
-   
-    "Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach"
-
-    _Evolutionary and Institutional Economics Review_ [ESCI], R&R.
-
-    - Accepted by **ASSA Annual Meeting** 2020 (Oral Presentation)
-
-    - Available at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
-
-2. Bangxi Li, <u>Chong Liu</u> and Feng Zhao.
+1. Bangxi Li, <u>Chong Liu</u> and Feng Zhao.
    
     "Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence" (in Chinese)
     
     _Finance and Trade Economics_, R&R.
 
-3. <u>Chong Liu</u>.
+2. <u>Chong Liu</u>.
    
     "Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy" (in Chinese)
 
     _China Review of Political Economy_, R&R.
 
-4. <u>Chong Liu</u> and Bangxi Li.
+3. <u>Chong Liu</u> and Bangxi Li.
    
     “Mathematical Political Economics: Motivations and Methods” (in Chinese)
 
     _Chinese Social Sciences Today_, R&R.
 
-5. <u>Chong Liu</u> and Bangxi Li.
+4. <u>Chong Liu</u> and Bangxi Li.
    
     “The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian” (in Chinese)
 
     _China Social Science Review_, R&R.
 
-6. Bangxi Li, <u>Chong Liu</u> and Liang Chen.
+5. Bangxi Li, <u>Chong Liu</u> and Liang Chen.
    
     “The ‘Real-Fictitious’ Relationship in China’s Economic Development: An Extension of Marx’s Theory on the Reproduction of Aggregate Social Capital” (in Chinese)
     
@@ -102,6 +104,8 @@ permalink: /research/
 5. From Marx's Transformation Problem to Sraffa's Standard Commodity (in Chinese)
 
 6. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
+
+7. Marx vs Hayek: Fictitious Capital and and the Crisis of Capitalism
 
 <br/>
 <br/>
