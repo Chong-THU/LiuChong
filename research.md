@@ -22,6 +22,10 @@ permalink: /research/
 
    - The 5th **LIU Shibai Award in Economics**
 
+   - **TOP 0.5%** on Academic Influence among 2,952 Papers in Political Economy (2012 - 2019)
+
+   - **Translated into English and Reprinted** by _China Political Economy_, 2021, 4 (1): 110-127 [[CPE2021](http://39.98.141.84:3838/iMarxTool/CPE2021.pdf)]
+
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
     “Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy” (in Chinese)
