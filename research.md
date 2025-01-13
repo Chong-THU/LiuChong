@@ -12,7 +12,7 @@ permalink: /research/
 
 ------
 
-1. Bangxi Li, <u>Chong Liu</u> and Liang Chen.
+1. 你好
    
    - The 8th **WEI Xinghua Best Paper Award**
 
