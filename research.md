@@ -12,7 +12,7 @@ permalink: /research/
 
 ------
 
-1. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
+1. Bangxi Li, <u>Chong Liu</u> and Liang Chen.
    
     “Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy” (in Chinese)
 
@@ -21,10 +21,6 @@ permalink: /research/
     **Abstract**: In the current literature, there is little systematic research on the relationship among adjustment of the income distribution, change in economic structure and improvement of macroeconomic efficiency. This paper expands Marx's reproduction schema into the “Marx–Sraffa” three-department structure table comprising fixed capital, general means of production and means of consumption and employs China's input–output table from 1987 to 2015 to portray the relationship between income distribution and macroeconomic efficiency under investment-driven growth. This paper calculates the wage–profit curve of China's economy and evaluates the space of macroeconomic efficiency improvement in China based on the deviation between actual and potential income distribution structure. The results show that there is a downward trend of the profit rate, which meets Marx's theoretical prediction, and the decline in the profit rate is mainly attributed to an increase in the organic composition of capital arising from the rapid growth of fixed capital investment under extended growth. The analysis of macroeconomic efficiency shows that the space for improving macroeconomic efficiency is extremely limited under traditional growth pattern and that China must transform its economic development pattern and foster new economic growth drivers.
 
    - The 5th **LIU Shibai Award in Economics**
-
-   - **TOP 0.5%** on Academic Influence among 2,952 Papers in Political Economy (2012 - 2019)
-
-   - **Translated into English and Reprinted** by _China Political Economy_, 2021, 4 (1): 110-127 [[CPE2021](http://39.98.141.84:3838/iMarxTool/CPE2021.pdf)]
 
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
