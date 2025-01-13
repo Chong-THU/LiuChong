@@ -28,6 +28,12 @@ permalink: /research/
 
     ***Economic Research Journal*** [**TOP** Chinese Journal in Economics], 2019, 54 (3): 181-193. [[ERJ2019](http://39.98.141.84:3838/iMarxTool/ERJ2019.pdf)]
 
+   - The 5th **LIU Shibai Award in Economics**
+
+   - **TOP 0.5%** on Academic Influence among 2,952 Papers in Political Economy (2012 - 2019)
+
+   - **Translated into English and Reprinted** by _China Political Economy_, 2021, 4 (1): 110-127 [[CPE2021](http://39.98.141.84:3838/iMarxTool/CPE2021.pdf)]
+
     **Abstract**: In the current literature, there is little systematic research on the relationship among adjustment of the income distribution, change in economic structure and improvement of macroeconomic efficiency. This paper expands Marx's reproduction schema into the “Marx–Sraffa” three-department structure table comprising fixed capital, general means of production and means of consumption and employs China's input–output table from 1987 to 2015 to portray the relationship between income distribution and macroeconomic efficiency under investment-driven growth. This paper calculates the wage–profit curve of China's economy and evaluates the space of macroeconomic efficiency improvement in China based on the deviation between actual and potential income distribution structure. The results show that there is a downward trend of the profit rate, which meets Marx's theoretical prediction, and the decline in the profit rate is mainly attributed to an increase in the organic composition of capital arising from the rapid growth of fixed capital investment under extended growth. The analysis of macroeconomic efficiency shows that the space for improving macroeconomic efficiency is extremely limited under traditional growth pattern and that China must transform its economic development pattern and foster new economic growth drivers.
 
    - The 5th **LIU Shibai Award in Economics**
@@ -49,6 +55,10 @@ permalink: /research/
     "Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach"
 
     **_Evolutionary and Institutional Economics Review_** [ESCI], Accepted.
+
+    - Draft version presented at **ASSA Annual Meeting** 2020
+
+    - Draft version avaliable at SSRN: [https://ssrn.com/abstract=3679853](https://ssrn.com/abstract=3679853)
 
     **Abstract**: Accelerated depreciation of fixed assets is a prominent tax reduction policy. While existing empirical studies have primarily focused on the micro perspective, there is a lack of literature systematically quantifying its macro-level economic impact. Based on Marxist political economy and drawing on Okishio’s theory of accumulation, we propose an analysis framework integrating the reproduction of fixed capital into the overall reproduction of aggregate social capital. This study aims to examine whether, and to what extent, accelerated depreciation can promote economic growth, using China’s input-output data from 1981 to 2020. The findings reveal that accelerated depreciation positively impacts economic growth, primarily driven by new investments. This impact becomes more significant as the depreciation period shortens. However, it is essential to note that shortening the depreciation period also leads to a negative adjustment effect due to increased costs. Theoretical implications for policymaking need a systematic perspective on the role of accelerated depreciation and investment-driven growth.
 
