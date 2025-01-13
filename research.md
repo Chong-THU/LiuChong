@@ -22,7 +22,7 @@ permalink: /research/
 
    - The 8th **WEI Xinghua Best Paper Award**
 
-   - Core contents of the doctoral dissertation awarded by **Contemporary Economics Doctoral Innovation Project**
+   - Core contents of the doctoral dissertation awarded by **Contemporary Economics Doctoral Innovation Project** ( National Award for Outstanding Doctoral Dissertation, **ONLY 10** )
 
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
