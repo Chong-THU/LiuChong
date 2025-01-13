@@ -21,9 +21,10 @@ permalink: /research/
     **Abstract**: The boundaries between the real economy and the fictitious economy have become increasingly blurred amid the ongoing technological revolution, particularly driven by digital innovations. While sector classifications continually evolve to adapt to practical realities, the division into major departments provides a relatively stable foundation for observing long-term economic development patterns. To understand the operational dynamics of the fictitious economy relative to the real economy, this paper positions fictitious capital as a major department parallel to the means of production and means of consumption, which extends Marx's theory of the reproduction of the aggregate social capital and interprets stock changes through the flow dynamics of capital movement, thereby constructing an analytical framework for the circuit of capital within the “real-fictitious” three-major-department system. Using input-output data, this paper establishes a three-major-department table and develops a series of indicators that capture both structural and relational information, enabling an empirical analysis of the “real-fictitious” relationship in China's economic development. The results show that China's real and fictitious economies are deeply intertwined, jointly shaping the current economic structure. However, the fictitious economy remains in a stage of expansion but has yet to achieve substantial depth, with the real economy continuing to serve as the foundation. The “transforming from real” phenomenon does not necessarily imply a complete “shift to fictitious.” Instead, while the scale of fictitious capital returning to the real economy is relatively sound, significant structural imbalances and associated risks persist. Optimizing the structural reintegration of fictitious capital into the two major departments of the real economy and formulating systematic governance strategies to ensure that fictitious capital effectively serves the real economy are critical for achieving high-quality economic development.
 
    - The 8th **WEI Xinghua Best Paper Award**
+
 <br/>
 
-2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
+1. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
     “Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy” (in Chinese)
 
@@ -37,7 +38,7 @@ permalink: /research/
 
    - **Translated into English and Reprinted** by _China Political Economy_, 2021, 4 (1): 110-127 [[CPE2021](http://39.98.141.84:3838/iMarxTool/CPE2021.pdf)]
 
-3. <u>Chong Liu</u> and Lirong Jiang. 
+2. <u>Chong Liu</u> and Lirong Jiang. 
    
     “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment” (in Chinese)
     
@@ -45,7 +46,7 @@ permalink: /research/
 
     **Abstract**: Born in the economic crisis and crisis in economics in the 1970s, the French Regulation School (FRS), theoretically inspired by Marx and other radical economists, advocates studying the capitalist mode of production (CMP) as a historical process with the “Regulation Approach” as a leading paradigm. It is of great significance to examine the achievements and new progress of the FRS. This paper reviews the core concepts and theoretical evolution of the FRS from the perspective of Marx's economics. We find that the institutional forms, mode of regulation, and accumulation regime jointly determine the capitalist economy's self-regulation, self-renewal, and self-development, where five types of crises are also involved. There is a strong continuity of studies among scholars of different generations. The transformation from Fordism to Post-Fordism and exportism as a dominant mode of growth in the East Asian newly industrializing economies (EANICs) has attracted the attention of scholars in the 20th century while emphasizing the central role of the state in regulation is an essential theoretical turn in the 21st century. Regarding methodology, the FRS pays attention to complementary economic and extra-economic mechanisms, integrated micro and macro perspectives, historical induction, and contradiction analysis, all of which have rich reference significance for the innovation of Marxist economics.
 
-4. <u>Chong Liu</u>, Bangxi Li and Jim Huangnan Shen.
+3. <u>Chong Liu</u>, Bangxi Li and Jim Huangnan Shen.
    
     "Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach"
 
