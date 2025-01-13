@@ -69,11 +69,11 @@ permalink: /research/
     
     _Finance and Trade Economics_, R&R.
 
-2. <u>Chong Liu</u>.
+2. <u>Chong Liu</u> and Bangxi Li.
    
-    "Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy" (in Chinese)
+    “The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian” (in Chinese)
 
-    _China Review of Political Economy_, R&R.
+    _China Social Science Review_, R&R.
 
 3. <u>Chong Liu</u> and Bangxi Li.
    
@@ -81,11 +81,11 @@ permalink: /research/
 
     _Chinese Social Sciences Today_, R&R.
 
-4. <u>Chong Liu</u> and Bangxi Li.
+4. <u>Chong Liu</u>.
    
-    “The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian” (in Chinese)
+    "Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy" (in Chinese)
 
-    _China Social Science Review_, R&R.
+    _China Review of Political Economy_.
 
 <br/>
 <br/>
