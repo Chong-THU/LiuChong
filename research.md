@@ -22,6 +22,7 @@ permalink: /research/
 
    - The 8th **WEI Xinghua Best Paper Award**
 
+
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
     “Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy” (in Chinese)
