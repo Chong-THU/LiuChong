@@ -77,7 +77,7 @@ permalink: /research/
 
     _China Social Science Review_, R&R.
 
-3. <u>Chong Liu</u> and Bangxi Li.
+3.  Bangxi Li and <u>Chong Liu</u>.
    
     “Mathematical Political Economy: Motivations and Methods” (in Chinese)
 
