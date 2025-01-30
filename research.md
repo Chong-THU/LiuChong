@@ -79,7 +79,7 @@ permalink: /research/
 
 3. <u>Chong Liu</u> and Bangxi Li.
    
-    “Mathematical Political Economics: Motivations and Methods” (in Chinese)
+    “Mathematical Political Economy: Motivations and Methods” (in Chinese)
 
     _Chinese Social Sciences Today_, R&R.
 
