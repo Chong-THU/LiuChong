@@ -14,7 +14,7 @@ permalink: /cv/
 
 ------
 
-2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Postdoctoral Researcher
+2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Independent Postdoctoral Researcher ([https://www.landecon.cam.ac.uk/person/chong-liu](https://www.landecon.cam.ac.uk/person/chong-liu))
 
 <br/>
 <br/>
