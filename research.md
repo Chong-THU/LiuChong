@@ -24,6 +24,8 @@ permalink: /research/
 
    - Core contents of the doctoral dissertation awarded by **Contemporary Economics Doctoral Innovation Project** ( National Award for Outstanding Doctoral Dissertation, **ONLY 10** )
 
+   - News on the Cambridge website: [https://www.landecon.cam.ac.uk/lab-of-interdisciplinary-spatial-analysis/news/new-research-dr-chong-liu-published-social-sciences](https://www.landecon.cam.ac.uk/lab-of-interdisciplinary-spatial-analysis/news/new-research-dr-chong-liu-published-social-sciences)
+
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
     “Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy” (in Chinese)
@@ -38,7 +40,15 @@ permalink: /research/
 
    - **Translated into English and Reprinted** by _China Political Economy_, 2021, 4 (1): 110-127 [[CPE2021](http://39.98.141.84:3838/iMarxTool/CPE2021.pdf)]
 
-3. <u>Chong Liu</u> and Lirong Jiang. 
+3.  Bangxi Li and <u>Chong Liu</u>.
+   
+    “Mathematical Political Economy: Motivations and Methods” (in Chinese)
+
+    ***Chinese Social Sciences Today***, 2025, Feburary 27: A05. [[CSST2025](https://www.cssn.cn/skgz/bwyc/202502/t20250227_5849370.shtml)]
+
+   - News on the Tsinghua website: [https://www.tsinghua.edu.cn/info/1662/117227.htm](https://www.tsinghua.edu.cn/info/1662/117227.htm)
+
+4. <u>Chong Liu</u> and Lirong Jiang. 
    
     “The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment” (in Chinese)
     
@@ -46,7 +56,7 @@ permalink: /research/
 
     **Abstract**: Born in the economic crisis and crisis in economics in the 1970s, the French Regulation School (FRS), theoretically inspired by Marx and other radical economists, advocates studying the capitalist mode of production (CMP) as a historical process with the “Regulation Approach” as a leading paradigm. It is of great significance to examine the achievements and new progress of the FRS. This paper reviews the core concepts and theoretical evolution of the FRS from the perspective of Marx's economics. We find that the institutional forms, mode of regulation, and accumulation regime jointly determine the capitalist economy's self-regulation, self-renewal, and self-development, where five types of crises are also involved. There is a strong continuity of studies among scholars of different generations. The transformation from Fordism to Post-Fordism and exportism as a dominant mode of growth in the East Asian newly industrializing economies (EANICs) has attracted the attention of scholars in the 20th century while emphasizing the central role of the state in regulation is an essential theoretical turn in the 21st century. Regarding methodology, the FRS pays attention to complementary economic and extra-economic mechanisms, integrated micro and macro perspectives, historical induction, and contradiction analysis, all of which have rich reference significance for the innovation of Marxist economics.
 
-4. <u>Chong Liu</u>, Bangxi Li and Jim Huangnan Shen.
+5. <u>Chong Liu</u>, Bangxi Li and Jim Huangnan Shen.
    
     "Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach"
 
@@ -77,13 +87,7 @@ permalink: /research/
 
     _China Social Science Review_, R&R.
 
-3.  Bangxi Li and <u>Chong Liu</u>.
-   
-    “Mathematical Political Economy: Motivations and Methods” (in Chinese)
-
-    _Chinese Social Sciences Today_, R&R.
-
-4. <u>Chong Liu</u>.
+3. <u>Chong Liu</u>.
    
     "Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy" (in Chinese)
 
