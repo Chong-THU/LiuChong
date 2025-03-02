@@ -24,8 +24,6 @@ permalink: /research/
 
    - Core contents of the doctoral dissertation awarded by **Contemporary Economics Doctoral Innovation Project** ( National Award for Outstanding Doctoral Dissertation, **ONLY 10** )
 
-   - News on the Cambridge website: [https://www.landecon.cam.ac.uk/lab-of-interdisciplinary-spatial-analysis/news/new-research-dr-chong-liu-published-social-sciences](https://www.landecon.cam.ac.uk/lab-of-interdisciplinary-spatial-analysis/news/new-research-dr-chong-liu-published-social-sciences)
-
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
     “Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy” (in Chinese)
@@ -46,7 +44,7 @@ permalink: /research/
 
     ***Chinese Social Sciences Today***, 2025, Feburary 27: A05. [[CSST2025](https://www.cssn.cn/skgz/bwyc/202502/t20250227_5849370.shtml)]
 
-    - News on the Tsinghua website: [https://www.tsinghua.edu.cn/info/1662/117227.htm](https://www.tsinghua.edu.cn/info/1662/117227.htm)
+    **Abstract**: The application of mathematical analysis to Marxist political economy has deep historical roots. This paper reasserts the importance of mathematical political economy within the Marxian tradition, challenging the notion that Marxism rejects formal methods. Drawing on Marx's own quantitative practices alongside modern debates, this paper argues that formalizing Marxian theory is both necessary and feasible. Beyond resolving the inherent ambiguities of natural language (e.g., disputes over measures of exploitation), mathematical modeling facilitates three key advances: (1) a precise articulation of class-structured agency, where capital and labor interact not as isolated optimizers but as embodiments of antagonistic production relations; (2) a rigorous reconstruction of reproduction circuits, contrasting linear neoclassical production functions with Marx's circular flows of value and use-value; and (3) a dynamic modeling of endogenous structural contradictions that eschews equilibrium fetishism in favor of prioritizing the disequilibrating forces central to historical materialism. Ultimately, this paper categorizes recent advances in the field into two strands: “For Marx,” which focuses on refining and advancing the foundational theories of Marxian political economy through innovative mathematical methods, and “By Marx,” which emphasizes problem-driven empirical research that uses these foundational theories to quantitatively analyze contemporary economic development.
 
 4. <u>Chong Liu</u> and Lirong Jiang. 
    
