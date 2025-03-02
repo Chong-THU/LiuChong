@@ -46,7 +46,7 @@ permalink: /research/
 
     ***Chinese Social Sciences Today***, 2025, Feburary 27: A05. [[CSST2025](https://www.cssn.cn/skgz/bwyc/202502/t20250227_5849370.shtml)]
 
-   - News on the Tsinghua website: [https://www.tsinghua.edu.cn/info/1662/117227.htm](https://www.tsinghua.edu.cn/info/1662/117227.htm)
+    - News on the Tsinghua website: [https://www.tsinghua.edu.cn/info/1662/117227.htm](https://www.tsinghua.edu.cn/info/1662/117227.htm)
 
 4. <u>Chong Liu</u> and Lirong Jiang. 
    
