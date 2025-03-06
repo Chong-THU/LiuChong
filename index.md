@@ -11,11 +11,14 @@ layout: base
 # Chong Liu
 
 ```
-Department of Land Economy, University of Cambridge
+School of Economics and Management, Tsinghua University
+Research Assistant Professor
+
+<p hidden>Department of Land Economy, University of Cambridge</p>
 19 Silver Street, Cambridge, CB3 9EP, United Kingdom
 
-Email: cl2009@cam.ac.uk
-Website: https://www.landecon.cam.ac.uk/person/chong-liu
+Email: liuchong@sem.tsinghua.edu.cn
+Website: https://chong-thu.github.io/LiuChong/
 ```
 
 <br/>
@@ -28,13 +31,13 @@ Website: https://www.landecon.cam.ac.uk/person/chong-liu
 
 Welcome to my homepage!
 
-I earned my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
+I earned both my Bachelor’s and Ph.D. degrees in Economics from Tsinghua University. Following my studies, I completed a one-year independent postdoctoral research fellowship at the Department of Land Economy, [University of Cambridge](https://www.landecon.cam.ac.uk/person/chong-liu). I am currently a **Research Assistant Professor** at the School of Economics and Managements, Tsinghua University.
 
-My research focuses on **<font color=purple>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics and Post-Keynesian Economics.
+I am fortunate to have been supervised by [Professor Bangxi Li](https://www.tioe.tsinghua.edu.cn/info/1180/2221.htm) during my academic journey at Tsinghua University—a guidance that is exemplified by my dissertation, which was recognized with [the Contemporary Economics Doctoral Innovation Project](https://www.nefchina.org/homefile/03d0f883-c99f-4d5f-886e-819ef9ee754b.pdf) Award. I would also like to acknowledge the invaluable support of my advisors, [Chong-en Bai (Tsinghua University)](https://www.sem.tsinghua.edu.cn/en/info/1215/7001.htm) and [Helen Xiaohui Bao (University of Cambridge)](https://www.landecon.cam.ac.uk/directory/dr-helen-xiaohui-bao), who played pivotal roles during the early stages of my academic career.
 
-I also have interests in the topics on <font color=purple>China’s Economy</font> and the methods of <font color=purple>Spatial Analysis</font>.
+My research focuses on **<font color=purple>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics, and Post-Keynesian Economics. I am also interested in topics related to <font color=purple>China’s Economy</font>, such as state-owned enterprises, and in applying <font color=purple>Spatial Analysis</font> methods.
 
-I am committed to analyzing problems and proposing solutions from the perspective of Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
+I am committed to critically analyzing economic issues and proposing innovative solutions from a Political Economy perspective while engaging in constructive dialogue with Mainstream Economics.
 
 <br/>
 <br/>
