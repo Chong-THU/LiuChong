@@ -21,7 +21,7 @@ Website: https://chong-thu.github.io/LiuChong/
 <br/>
 
 <div  align="center"> 
-<img src="zhaopian.JPG" width = "300" height = "300"/>
+<img src="zhaopian.jpg" width = "400" height = "600"/>
 </div>
 
 <br/>
