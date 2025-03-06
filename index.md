@@ -14,9 +14,6 @@ layout: base
 School of Economics and Management, Tsinghua University
 Research Assistant Professor
 
-<p hidden>Department of Land Economy, University of Cambridge</p>
-19 Silver Street, Cambridge, CB3 9EP, United Kingdom
-
 Email: liuchong@sem.tsinghua.edu.cn
 Website: https://chong-thu.github.io/LiuChong/
 ```
