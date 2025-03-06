@@ -32,7 +32,9 @@ I earned both my Bachelor’s and Ph.D. degrees in Economics from Tsinghua Unive
 
 I am fortunate to have been supervised by [Professor Bangxi Li](https://www.tioe.tsinghua.edu.cn/info/1180/2221.htm) during my academic journey at Tsinghua University—a guidance that is exemplified by my dissertation, which was recognized with the [Contemporary Economics Doctoral Innovation Project](https://www.nefchina.org/homefile/03d0f883-c99f-4d5f-886e-819ef9ee754b.pdf) Award. I would also like to acknowledge the invaluable support of my advisors, [Professor Chong-en Bai (Tsinghua University)](https://www.sem.tsinghua.edu.cn/en/info/1215/7001.htm) and [Professor Helen Xiaohui Bao (University of Cambridge)](https://www.landecon.cam.ac.uk/directory/dr-helen-xiaohui-bao), who played pivotal roles during the early stages of my academic career.
 
-My research focuses on **<font color=purple>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics, and Post-Keynesian Economics. I am also interested in topics related to <font color=purple>China’s Economy</font>, such as state-owned enterprises, and in applying <font color=purple>Spatial Analysis</font> methods.
+My research focuses on **<font color=purple>Mathematical Approaches for Classical Political Economy</font>**, Marxian Economics, and Post-Keynesian Economics. I am also interested in topics related to <font color=purple>China’s Economy</font>, such as state-owned enterprises.
+
+<p hidden>, and in applying <font color=purple>Spatial Analysis</font> methods.</p>
 
 I am committed to critically analyzing economic issues and proposing innovative solutions from a Political Economy perspective while engaging in constructive dialogue with Mainstream Economics.
 
