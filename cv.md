@@ -10,18 +10,11 @@ permalink: /cv/
 
 <br/>
 
-## Appointments
+## Edudation
 
 ------
 
 2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; University of Cambridge: Independent Postdoctoral Researcher
-
-<br/>
-<br/>
-
-## Edudation
-
-------
 
 2019.08 - 2024.01 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Ph.D. in Economics
 

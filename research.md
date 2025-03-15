@@ -91,6 +91,12 @@ permalink: /research/
 
     _China Review of Political Economy_.
 
+4. <u>Chong Liu</u>.
+
+    "Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism"
+
+    _Cambridge Journal of Economics_.
+
 <br/>
 <br/>
 
@@ -111,7 +117,6 @@ permalink: /research/
 
 6. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
 
-7. Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism
 
 <br/>
 <br/>
