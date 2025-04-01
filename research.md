@@ -86,12 +86,6 @@ permalink: /research/
     _China Social Science Review_, R&R.
 
 3. <u>Chong Liu</u>.
-   
-    "Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy" (in Chinese)
-
-    _China Review of Political Economy_.
-
-4. <u>Chong Liu</u>.
 
     "Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism"
 
@@ -107,15 +101,17 @@ permalink: /research/
 
 1. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
-2. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
+2. Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy (in Chinese)
 
-3. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
+3. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
 
-4. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese)
+4. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
-5. From Marx's Transformation Problem to Sraffa's Standard Commodity (in Chinese)
+5. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese)
 
-6. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
+6. From Marx's Transformation Problem to Sraffa's Standard Commodity (in Chinese)
+
+7. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
 
 
 <br/>
