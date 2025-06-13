@@ -73,46 +73,25 @@ permalink: /research/
 
 -----
 
-1. Bangxi Li, <u>Chong Liu</u> and Feng Zhao.
-   
-    "Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence" (in Chinese)
-    
-    _Finance and Trade Economics_, R&R.
+1. The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian (in Chinese)
 
-2. <u>Chong Liu</u> and Bangxi Li.
-   
-    “The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian” (in Chinese)
+2. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese)
 
-    _China Social Science Review_, R&R.
+3. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
 
-3. <u>Chong Liu</u>.
+4. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
 
-    "Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism"
+5. Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy (in Chinese)
 
-    _Cambridge Journal of Economics_.
+6. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
-<br/>
-<br/>
+7. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese)
 
+8. From Marx's Transformation Problem to Sraffa's Standard Commodity (in Chinese)
 
-## Work in Progress
+9. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
 
------
-
-1. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
-
-2. Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy (in Chinese)
-
-3. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
-
-4. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
-
-5. Marx or Keynes? Revision of the Mathematical Model of Endogenous Public Expenditure (in Chinese)
-
-6. From Marx's Transformation Problem to Sraffa's Standard Commodity (in Chinese)
-
-7. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
-
+10. Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism
 
 <br/>
 <br/>
