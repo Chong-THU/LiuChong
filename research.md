@@ -73,15 +73,15 @@ permalink: /research/
 
 -----
 
-1. The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian (in Chinese)
+1. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese)
 
-2. Fixed Asset Investment, Accelerated Depreciation and Economic Growth: Theoretical Framework and Empirical Evidence (in Chinese)
+2. The Study of Economic Growth from the Perspective of Production Theory: Marx, Neoclassical and Post-Keynesian (in Chinese)
 
-3. Recent Development in Research on Fictitious Capital and Financial Capital (in Chinese)
+3. Recent Development in Research on Fictitious Capital (in Chinese)
 
-4. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
+4. Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy (in Chinese)
 
-5. Is There Fictionalization in China's Economy? A Comparative Analysis of Marxist Political Economy (in Chinese)
+5. The Efficiency of Finance in Serving the Real Economy: An Empirical Study from the Perspective of Fictitious Capital Theory (in Chinese)
 
 6. Coordinated Development and Spatial Spillover Effect of Macroeconomic Eﬀiciency: An Empirical Study Based on the Provincial Input-Output Tables (in Chinese)
 
@@ -89,9 +89,9 @@ permalink: /research/
 
 8. From Marx's Transformation Problem to Sraffa's Standard Commodity (in Chinese)
 
-9. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
+9. Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism
 
-10. Marx vs Hayek: Fictitious Capital and the Crisis of Capitalism
+10. Spatial Unbalance of Real-Fictitious EconoNexus in the AI Era
 
 <br/>
 <br/>
