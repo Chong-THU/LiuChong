@@ -14,7 +14,7 @@ permalink: /cv/
 
 ------
 
-2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; Assistant Professor, Peking University
+2025.09 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant Professor, Peking University
 
 2024.09 - 2025.08 &nbsp; &nbsp; &nbsp; &nbsp; Research Assistant Professor, Tsinghua University
 
