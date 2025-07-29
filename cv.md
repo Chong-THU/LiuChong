@@ -42,9 +42,9 @@ permalink: /cv/
 
 ### Scholarship
 
-2018 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University TOP Grade Scholarship ( ONLY 10 )
+2018 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University TOP Grade Scholarship
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学特等奖学金（本科生）（全校10人）
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学特等奖学金（本科生）
 
 2021 &nbsp; &nbsp; &nbsp; &nbsp; National Scholarship
 
@@ -66,7 +66,7 @@ permalink: /cv/
 
 2020 &nbsp; &nbsp; &nbsp; &nbsp; The 5th Liu Shibai Award in Economics
 
-2020 &nbsp; &nbsp; &nbsp; &nbsp; The 8th WEI Xinghua Best Paper Award
+2024 &nbsp; &nbsp; &nbsp; &nbsp; The 8th WEI Xinghua Best Paper Award
 
 2019 &nbsp; &nbsp; &nbsp; &nbsp; The 10th "Challenge Cup" Capital University Academic Competition: TOP Prize
 
