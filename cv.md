@@ -10,7 +10,7 @@ permalink: /cv/
 
 <br/>
 
-## Appointments
+<!--## Appointments
 
 ------
 
@@ -21,7 +21,7 @@ permalink: /cv/
 2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; Independent Postdoctoral Researcher, University of Cambridge
 
 <br/>
-<br/>
+<br/>-->
 
 ## Edudation
 
