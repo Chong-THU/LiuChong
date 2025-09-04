@@ -14,7 +14,7 @@ permalink: /cv/
 
 ------
 
-2025 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant Professor, Peking University
+2025 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Assistant Professor, Peking University
 
 <p hidden> 2024.09 - 2025.08 &nbsp; &nbsp; &nbsp; &nbsp; Research Assistant Professor, Tsinghua University
 
@@ -31,7 +31,7 @@ permalink: /cv/
 
 2015 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: B.A. in Economics
 
-<p hidden> 2012.08 - 2015.07 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ) </p>
+2012 - 2015 &nbsp; &nbsp; &nbsp; &nbsp; The High School Affiliated to Renmin University of China (RDFZ)
 
 <br/>
 <br/>
