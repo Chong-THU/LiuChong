@@ -8,9 +8,11 @@ permalink: /research/
 
 <br/>
 
-<div class="research-page">
+## Publications
 
-<h2 id="publications">Publications</h2>
+------
+
+<div class="research-page">
 
 <style>
   .research-page{max-width:980px;margin:0 auto;padding:0 .6rem;}
