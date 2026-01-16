@@ -85,6 +85,16 @@ permalink: /research/
     background:rgba(255,255,255,.7);
   }
 
+  /* Bullet notes (more academic than chips) */
+  .pub-notes{
+    margin: .55rem 0 0 1.15rem;
+    padding: 0;
+  }
+  .pub-notes li{
+    margin: .18rem 0;
+    line-height: 1.6;
+  }
+
   .highlight{outline:2px solid rgba(0,0,0,.18);outline-offset:6px;border-radius:14px;}
 </style>
 
@@ -115,10 +125,11 @@ permalink: /research/
       </div>
     </details>
 
-    <div class="chip-row">
-      <span class="chip">WEI Xinghua Best Paper Award (2024)</span>
-      <span class="chip">Contemporary Economics Doctoral Innovation Project (ONLY 10)</span>
-    </div>
+    <ul class="pub-notes">
+    <li>The 8th <strong>WEI Xinghua Best Paper Award</strong> (2024)</li>
+    <li>Core contents of the doctoral dissertation awarded by <strong>Contemporary Economics Doctoral Innovation Project</strong> (National Award for Outstanding Doctoral Dissertation, <strong>ONLY 10</strong>)</li>
+    </ul>
+
   </li>
 
   <!-- 2 -->
@@ -141,12 +152,14 @@ permalink: /research/
       </div>
     </details>
 
-    <div class="chip-row">
-      <span class="chip">LIU Shibai Award in Economics (2020)</span>
-      <span class="chip">TOP 0.5% Academic Influence (2012–2019)</span>
-      <span class="chip"><em>China Political Economy</em> reprint (2021)</span>
-      <span class="chip pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/CPE2021.pdf" target="_blank" rel="noopener">CPE2021</a>]]</span>
-    </div>
+    <ul class="pub-notes">
+    <li>The 5th <strong>LIU Shibai Award in Economics</strong> (2020)</li>
+    <li><strong>TOP 0.5%</strong> on Academic Influence among 2,952 Papers in Political Economy (2012–2019)</li>
+    <li><strong>Translated into English and Reprinted</strong> by <em>China Political Economy</em>, 2021, 4(1): 110–127
+    <span class="pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/CPE2021.pdf" target="_blank" rel="noopener">CPE2021</a>]]</span>
+    </li>
+    </ul>
+
   </li>
 
   <!-- 3 -->
@@ -211,10 +224,13 @@ permalink: /research/
       </div>
     </details>
 
-    <div class="chip-row">
-      <span class="chip">Presented at ASSA Annual Meeting (2020)</span>
-      <span class="chip pub-links">SSRN: <a href="https://ssrn.com/abstract=3679853" target="_blank" rel="noopener">3679853</a></span>
-    </div>
+    <ul class="pub-notes">
+    <li>Draft version presented at <strong>ASSA Annual Meeting</strong> 2020</li>
+    <li>Draft version available at SSRN:
+    <a href="https://ssrn.com/abstract=3679853" target="_blank" rel="noopener">https://ssrn.com/abstract=3679853</a>
+    </li>
+    </ul>
+
   </li>
 
 </ol>
