@@ -4,6 +4,28 @@ title: Research
 permalink: /research/
 ---
 
+<style>
+  details.abstract {
+    margin: 0.4rem 0 0.8rem 0;
+  }
+  details.abstract > summary {
+    cursor: pointer;
+    font-weight: 500;
+    color: #444;
+  }
+  details.abstract > summary::-webkit-details-marker {
+    display: none;
+  }
+  details.abstract[open] > summary {
+    text-decoration: underline;
+  }
+  .abstract-body {
+    margin-top: 0.4rem;
+    margin-left: 1.2rem;
+    line-height: 1.5;
+  }
+</style>
+
 # Research
 
 <br/>
