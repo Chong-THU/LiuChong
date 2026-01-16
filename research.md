@@ -98,11 +98,6 @@ permalink: /research/
   .highlight{outline:2px solid rgba(0,0,0,.18);outline-offset:6px;border-radius:14px;}
 </style>
 
-<div class="pub-toolbar">
-  <button class="btn" onclick="researchOpenAll()">Open all abstracts</button>
-  <button class="btn" onclick="researchCloseAll()">Close all abstracts</button>
-</div>
-
 <ol class="pub-list">
 
   <!-- 1 -->
@@ -114,8 +109,8 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Social Sciences in China</em>, 2024, (12): 23–43.
-      <span class="pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/SSC2024.pdf" target="_blank" rel="noopener">SSC2024</a>]]</span>
-      <button class="btn copy-cite" data-cite="Li, Bangxi; Liu, Chong; Chen, Liang (2024). The 'Real-Fictitious' Relationship in China's Economic Development: An Extension of Marx's Theory on the Reproduction of Aggregate Social Capital. Social Sciences in China, (12), 23–43.">Copy cite</button>
+      <span class="pub-links">[<a href="http://39.98.141.84:3838/iMarxTool/SSC2024.pdf" target="_blank" rel="noopener">SSC2024</a>]</span>
+      <button class="btn copy-cite" data-cite="Li, Bangxi, Chong Liu, and Liang Chen. 2024. “The real–fictitious relationship in China’s economic development: An extension of Marx’s theory on the reproduction of aggregate social capital.” Social Sciences in China, no. 12: 23–43. (in Chinese)">Copy Citation</button>
     </div>
 
     <details class="abstract">
@@ -126,6 +121,7 @@ permalink: /research/
     </details>
 
     <ul class="pub-notes">
+    <li>The 15th <strong>Beijing Excellent Achievement Award</strong> in Philosophy and Social Sciences (2026)</li>
     <li>The 8th <strong>WEI Xinghua Best Paper Award</strong> (2024)</li>
     <li>Core contents of the doctoral dissertation awarded by <strong>Contemporary Economics Doctoral Innovation Project</strong> (National Award for Outstanding Doctoral Dissertation, <strong>ONLY 10</strong>)</li>
     </ul>
@@ -141,8 +137,8 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Economic Research Journal</em>, 2019, 54(3): 181–193.
-      <span class="pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/ERJ2019.pdf" target="_blank" rel="noopener">ERJ2019</a>]]</span>
-      <button class="btn copy-cite" data-cite="Li, Bangxi; Liu, Chong; Zhao, Feng; Huang, Yanghua (2019). Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy. Economic Research Journal, 54(3), 181–193.">Copy cite</button>
+      <span class="pub-links">[<a href="http://39.98.141.84:3838/iMarxTool/ERJ2019.pdf" target="_blank" rel="noopener">ERJ2019</a>]</span>
+      <button class="btn copy-cite" data-cite="Li, Bangxi, Chong Liu, Feng Zhao, and Yanghua Huang. 2019. “Production structure, income distribution, and macroeconomic efficiency: An analytical framework and empirical study of Marxist political economy.” Economic Research Journal 54 (3): 181–193. (in Chinese)">Copy Citation</button>
     </div>
 
     <details class="abstract">
@@ -155,8 +151,8 @@ permalink: /research/
     <ul class="pub-notes">
     <li>The 5th <strong>LIU Shibai Award in Economics</strong> (2020)</li>
     <li><strong>TOP 0.5%</strong> on Academic Influence among 2,952 Papers in Political Economy (2012–2019)</li>
-    <li><strong>Translated into English and Reprinted</strong> by <em>China Political Economy</em>, 2021, 4(1): 110–127
-    <span class="pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/CPE2021.pdf" target="_blank" rel="noopener">CPE2021</a>]]</span>
+    <li><strong>Translated into English and Reprinted</strong> by <em>China Political Economy</em>, 2021, 4(1): 110–127.
+    <span class="pub-links">[<a href="http://39.98.141.84:3838/iMarxTool/CPE2021.pdf" target="_blank" rel="noopener">CPE2021</a>]</span>
     </li>
     </ul>
 
@@ -171,8 +167,8 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Chinese Social Sciences Today</em>, 27 February 2025: A05.
-      <span class="pub-links">[[<a href="https://www.cssn.cn/skgz/bwyc/202502/t20250227_5849370.shtml" target="_blank" rel="noopener">CSST2025</a>]]</span>
-      <button class="btn copy-cite" data-cite="Li, Bangxi; Liu, Chong (2025). Mathematical Political Economy: Motivations and Methods. Chinese Social Sciences Today, 27 Feb 2025, A05.">Copy cite</button>
+      <span class="pub-links">[<a href="https://www.cssn.cn/skgz/bwyc/202502/t20250227_5849370.shtml" target="_blank" rel="noopener">CSST2025</a>]</span>
+      <button class="btn copy-cite" data-cite="Li, Bangxi and Chong Liu. 2025. “Mathematical political economy: Motivations and methods.” Chinese Social Sciences Today, February 27, A05. (in Chinese)">Copy Citation</button>
     </div>
 
     <details class="abstract">
@@ -192,8 +188,8 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>China Review of Political Economy</em>, 2022, 13(6): 146–174.
-      <span class="pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/CRPE2022.pdf" target="_blank" rel="noopener">CRPE2022</a>]]</span>
-      <button class="btn copy-cite" data-cite="Liu, Chong; Jiang, Lirong (2022). The French Regulation School: Core Concepts, Theoretical Evolution and Enlightenment. China Review of Political Economy, 13(6), 146–174.">Copy cite</button>
+      <span class="pub-links">[<a href="http://39.98.141.84:3838/iMarxTool/CRPE2022.pdf" target="_blank" rel="noopener">CRPE2022</a>]</span>
+      <button class="btn copy-cite" data-cite="Liu, Chong, and Lirong Jiang. 2022. “The French regulation school: Core concepts, theoretical evolution, and theoretical implications.” China Review of Political Economy 13 (6): 146–174. (in Chinese)">Copy Citation</button>
     </div>
 
     <details class="abstract">
@@ -213,8 +209,8 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Evolutionary and Institutional Economics Review</em>, 2025, 22: 181–211.
-      <span class="pub-links">[[<a href="http://39.98.141.84:3838/iMarxTool/EIER2025.pdf" target="_blank" rel="noopener">EIER2025</a>]]</span>
-      <button class="btn copy-cite" data-cite="Liu, Chong; Li, Bangxi; Shen, Jim Huangnan (2025). Accelerated Depreciation and Investment-driven Growth: A Marx-Okishio Approach. Evolutionary and Institutional Economics Review, 22, 181–211.">Copy cite</button>
+      <span class="pub-links">[<a href="http://39.98.141.84:3838/iMarxTool/EIER2025.pdf" target="_blank" rel="noopener">EIER2025</a>]</span>
+      <button class="btn copy-cite" data-cite="Liu, Chong, Bangxi Li, and Jim Huangnan Shen. 2025. “Accelerated depreciation and investment-driven growth: A Marx–Okishio approach.” Evolutionary and Institutional Economics Review 22: 181–211.">Copy Citation</button>
     </div>
 
     <details class="abstract">
@@ -248,15 +244,6 @@ permalink: /research/
     }
   });
 
-  function setAllAbstracts(open){
-    document.querySelectorAll('details.abstract').forEach(d=>{
-      if(open) d.setAttribute('open','');
-      else d.removeAttribute('open');
-    });
-  }
-  window.researchOpenAll = ()=>setAllAbstracts(true);
-  window.researchCloseAll = ()=>setAllAbstracts(false);
-
   // Deep-link highlight
   function jumpToHash(){
     const id = location.hash?.slice(1);
@@ -270,7 +257,7 @@ permalink: /research/
   window.addEventListener('hashchange', jumpToHash);
   window.addEventListener('load', jumpToHash);
 
-  // Copy cite (optional)
+  // Copy Citation (optional)
   async function copyText(text){
     try{ await navigator.clipboard.writeText(text); return true; }
     catch(e){ return false; }
