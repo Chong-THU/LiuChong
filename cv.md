@@ -16,9 +16,9 @@ permalink: /cv/
 
 2025 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &emsp; Assistant Professor, Peking University
 
-<p hidden> 2024.09 - 2025.08 &nbsp; &nbsp; &nbsp; &nbsp; Research Assistant Professor, Tsinghua University
+<p hidden> 2024.09 - 2025.08 &nbsp; &nbsp; &nbsp; &nbsp; Research Assistant Professor, Tsinghua University </p>
 
-2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; Independent Postdoctoral Researcher, University of Cambridge </p>
+<p hidden> 2024.03 - 2025.02 &nbsp; &nbsp; &nbsp; &nbsp; Independent Postdoctoral Researcher, University of Cambridge </p>
 
 <br/>
 <br/>
@@ -40,6 +40,30 @@ permalink: /cv/
 
 -----
 
+### Academic Achievement
+
+2025 &nbsp; &nbsp; &nbsp; &nbsp; The 15th Beijing Excellent Achievement Award in Philosophy and Social Sciences
+
+2024 &nbsp; &nbsp; &nbsp; &nbsp; Contemporary Economics Doctoral Innovation Project ( National Award for Outstanding Doctoral Dissertation, ONLY 10 )
+
+<p hidden> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 当代经济学博士创新项目（全国性基金奖励、全国10人）</p> 
+
+2023 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Zijing Scholar
+
+2024 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Excellent Doctoral Dissertation
+
+2022 &nbsp; &nbsp; &nbsp; &nbsp; The 7th Lindau Nobel Laureate Meeting on Economic Sciences: Young Economist
+
+2020 &nbsp; &nbsp; &nbsp; &nbsp; The 5th LIU Shibai Award in Economics
+
+2024 &nbsp; &nbsp; &nbsp; &nbsp; The 8th WEI Xinghua Best Paper Award
+
+2019 &nbsp; &nbsp; &nbsp; &nbsp; The 10th "Challenge Cup" Capital University Academic Competition: TOP Prize
+
+2019 &nbsp; &nbsp; &nbsp; &nbsp; The 3rd Forum on Political Economy with Chinese Characteristics: First Place
+
+<br/>
+
 ### Scholarship
 
 2018 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University TOP Grade Scholarship
@@ -52,35 +76,11 @@ permalink: /cv/
 
 <br/>
 
-### Academic Achievement
-
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Contemporary Economics Doctoral Innovation Project ( National Award for Outstanding Doctoral Dissertation, ONLY 10 )
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 当代经济学博士创新项目（全国性基金奖励、全国10人）
-
-2023 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Zijing Scholar
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学 “ 紫荆学者 ”
-
-2022 &nbsp; &nbsp; &nbsp; &nbsp; The 7th Lindau Nobel Laureate Meeting on Economic Sciences: Young Economist
-
-2020 &nbsp; &nbsp; &nbsp; &nbsp; The 5th Liu Shibai Award in Economics
-
-2024 &nbsp; &nbsp; &nbsp; &nbsp; The 8th WEI Xinghua Best Paper Award
-
-2019 &nbsp; &nbsp; &nbsp; &nbsp; The 10th "Challenge Cup" Capital University Academic Competition: TOP Prize
-
-2019 &nbsp; &nbsp; &nbsp; &nbsp; The 3rd Forum on Political Economy with Chinese Characteristics: First Place
-
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Excellent Doctoral Dissertation
-
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Beijing Province: Excellent Graduate
-
-<br/>
-
 ### Leadership and Social Influence
 
 2021 &nbsp; &nbsp; &nbsp; &nbsp; Beijing Province: Excellent Student Leader
+
+2024 &nbsp; &nbsp; &nbsp; &nbsp; Beijing Province: Excellent Graduate
 
 2022 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Excellent Tutor
 

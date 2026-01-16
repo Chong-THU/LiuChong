@@ -34,17 +34,25 @@ permalink: /research/
 
 ------
 
-1. Bangxi Li, <u>Chong Liu</u> and Liang Chen.
-   
-    “The 'Real-Fictitious' Relationship in China's Economic Development: An Extension of Marx's Theory on the Reproduction of Aggregate Social Capital” (in Chinese)
-    
-    ***Social Sciences in China***, 2024, (12): 23-43. [[SSC2024](http://39.98.141.84:3838/iMarxTool/SSC2024.pdf)]
+1. Bangxi Li, <u>Chong Liu</u> and Liang Chen.  
 
-    **Abstract**: The boundaries between the real economy and the fictitious economy have become increasingly blurred amid the ongoing technological revolution, particularly driven by digital innovations. While sector classifications continually evolve to adapt to practical realities, the division into major departments provides a relatively stable foundation for observing long-term economic development patterns. To understand the operational dynamics of the fictitious economy relative to the real economy, this paper positions fictitious capital as a major department parallel to the means of production and means of consumption, which extends Marx's theory of the reproduction of the aggregate social capital and interprets stock changes through the flow dynamics of capital movement, thereby constructing an analytical framework for the circuit of capital within the “real-fictitious” three-major-department system. Using input-output data, this paper establishes a three-major-department table and develops a series of indicators that capture both structural and relational information, enabling an empirical analysis of the “real-fictitious” relationship in China's economic development. The results show that China's real and fictitious economies are deeply intertwined, jointly shaping the current economic structure. However, the fictitious economy remains in a stage of expansion but has yet to achieve substantial depth, with the real economy continuing to serve as the foundation. The “transforming from real” phenomenon does not necessarily imply a complete “shift to fictitious.” Instead, while the scale of fictitious capital returning to the real economy is relatively sound, significant structural imbalances and associated risks persist. Optimizing the structural reintegration of fictitious capital into the two major departments of the real economy and formulating systematic governance strategies to ensure that fictitious capital effectively serves the real economy are critical for achieving high-quality economic development.
+   “The 'Real-Fictitious' Relationship in China's Economic Development: An Extension of Marx's Theory on the Reproduction of Aggregate Social Capital” (in Chinese)  
+
+   ***Social Sciences in China***, 2024, (12): 23–43.  
+   [[SSC2024](http://39.98.141.84:3838/iMarxTool/SSC2024.pdf)]
+
+   <details class="abstract">
+     <summary><strong>Abstract</strong> (click to expand)</summary>
+     <div class="abstract-body">
+       The boundaries between the real economy and the fictitious economy have become increasingly blurred amid the ongoing technological revolution, particularly driven by digital innovations. While sector classifications continually evolve to adapt to practical realities, the division into major departments provides a relatively stable foundation for observing long-term economic development patterns. To understand the operational dynamics of the fictitious economy relative to the real economy, this paper positions fictitious capital as a major department parallel to the means of production and means of consumption, which extends Marx's theory of the reproduction of the aggregate social capital and interprets stock changes through the flow dynamics of capital movement, thereby constructing an analytical framework for the circuit of capital within the “real-fictitious” three-major-department system. Using input-output data, this paper establishes a three-major-department table and develops a series of indicators that capture both structural and relational information, enabling an empirical analysis of the “real-fictitious” relationship in China's economic development. The results show that China's real and fictitious economies are deeply intertwined, jointly shaping the current economic structure. However, the fictitious economy remains in a stage of expansion but has yet to achieve substantial depth, with the real economy continuing to serve as the foundation. The “transforming from real” phenomenon does not necessarily imply a complete “shift to fictitious.” Instead, while the scale of fictitious capital returning to the real economy is relatively sound, significant structural imbalances and associated risks persist. Optimizing the structural reintegration of fictitious capital into the two major departments of the real economy and formulating systematic governance strategies to ensure that fictitious capital effectively serves the real economy are critical for achieving high-quality economic development.
+     </div>
+   </details>
+
+   - The 15th **Beijing Excellent Achievement** Award in Philosophy and Social Sciences (2025)
 
    - The 8th **WEI Xinghua Best Paper Award** (2024)
-
-   - Core contents of the doctoral dissertation awarded by **Contemporary Economics Doctoral Innovation Project** ( National Award for Outstanding Doctoral Dissertation, **ONLY 10** )
+  
+   - Core contents of the doctoral dissertation awarded by **Contemporary Economics Doctoral Innovation Project** (National Award for Outstanding Doctoral Dissertation, **ONLY 10**)
 
 2. Bangxi Li, <u>Chong Liu</u>, Feng Zhao and Yanghua Huang.
    
