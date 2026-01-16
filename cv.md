@@ -42,35 +42,43 @@ permalink: /cv/
 
 ### Academic Achievement
 
-2025 &nbsp; &nbsp; &nbsp; &nbsp; The 15th Beijing Excellent Achievement Award in Philosophy and Social Sciences
+The 15th Beijing Excellent Achievement Award in Philosophy and Social Sciences (2025)
 
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Contemporary Economics Doctoral Innovation Project ( National Award for Outstanding Doctoral Dissertation, ONLY 10 )
+Contemporary Economics Doctoral Innovation Project [ National Award for Outstanding Doctoral Dissertation, ONLY 10 ] (2024)
 
 <p hidden> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 当代经济学博士创新项目（全国性基金奖励、全国10人）</p> 
 
-2023 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Zijing Scholar
+Tsinghua University: Zijing Scholar (2023)
 
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Excellent Doctoral Dissertation
+Tsinghua University: Excellent Doctoral Dissertation (2024)
 
-2022 &nbsp; &nbsp; &nbsp; &nbsp; The 7th Lindau Nobel Laureate Meeting on Economic Sciences: Young Economist
+The 7th Lindau Nobel Laureate Meeting on Economic Sciences: Young Economist (2022)
 
-2020 &nbsp; &nbsp; &nbsp; &nbsp; The 5th LIU Shibai Award in Economics
+The 5th LIU Shibai Award in Economics (2020)
 
-2024 &nbsp; &nbsp; &nbsp; &nbsp; The 8th WEI Xinghua Best Paper Award
+The 8th WEI Xinghua Best Paper Award (2024)
 
-2019 &nbsp; &nbsp; &nbsp; &nbsp; The 10th "Challenge Cup" Capital University Academic Competition: TOP Prize
+The 10th "Challenge Cup" Capital University Academic Competition: TOP Prize (2019)
 
-2019 &nbsp; &nbsp; &nbsp; &nbsp; The 3rd Forum on Political Economy with Chinese Characteristics: First Place
+The 3rd Forum on Political Economy with Chinese Characteristics: First Place (2019)
+
+<br/>
+
+### Teaching
+
+The 25th Peking University Competition of Basic Skills in Teaching for Young Teachers: First Prize (2026)
+
+Tsinghua University: Excellent Tutor (2022)
 
 <br/>
 
 ### Scholarship
 
-2018 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University TOP Grade Scholarship
+Tsinghua University TOP Grade Scholarship (2018)
 
 <p hidden> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 清华大学特等奖学金（本科生）</p> 
 
-2021 &nbsp; &nbsp; &nbsp; &nbsp; National Scholarship
+National Scholarship (2021)
 
 <p hidden> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 国家奖学金（研究生）</p> 
 
@@ -78,11 +86,9 @@ permalink: /cv/
 
 ### Leadership and Social Influence
 
-2021 &nbsp; &nbsp; &nbsp; &nbsp; Beijing Province: Excellent Student Leader
+Beijing Province: Excellent Student Leader (2021)
 
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Beijing Province: Excellent Graduate
-
-2022 &nbsp; &nbsp; &nbsp; &nbsp; Tsinghua University: Excellent Tutor
+Beijing Province: Excellent Graduate (2024)
 
 <br/>
 <br/>
