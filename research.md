@@ -123,7 +123,7 @@ permalink: /research/
     </details>
 
     <ul class="pub-notes">
-    <li>The 15th <strong>Beijing Excellent Achievement Award</strong> in Philosophy and Social Sciences (2026)</li>
+    <li>The 18th <strong>Beijing Excellent Achievement Award</strong> in Philosophy and Social Sciences (2026)</li>
     <li>The 8th <strong>WEI Xinghua Best Paper Award</strong> (2024)</li>
     <li>Core contents of the doctoral dissertation awarded by <strong>Contemporary Economics Doctoral Innovation Project</strong> (National Award for Outstanding Doctoral Dissertation, <strong>ONLY 10</strong>)</li>
     </ul>
