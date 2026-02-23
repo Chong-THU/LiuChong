@@ -52,7 +52,7 @@ header_pages:
 - cv.md
 - research.md
 # - 中文版.md
-# - iMarxTool.md
+- iMarxTool.md
 
 
 # Set to `true` to show excerpts on the homepage.
