@@ -62,7 +62,7 @@ permalink: /cv/
 
 ### Academic Achievement
 
-- The 15th Beijing Excellent Achievement Award in Philosophy and Social Sciences (2025)
+- The 18th Beijing Excellent Achievement Award in Philosophy and Social Sciences (2025)
 
 - Contemporary Economics Doctoral Innovation Project [ National Award for Outstanding Doctoral Dissertation, ONLY 10 ] (2024)
 
