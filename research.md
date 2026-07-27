@@ -111,7 +111,7 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Social Sciences in China</em>, 2024, (12): 23–43.
-      <span class="pub-links">[<a href="/LiuChong/file/SSC2024.pdf" target="_blank" rel="noopener">SSC2024</a>]</span>
+      <span class="pub-links">[<a href="https://imarxtool.xyz/files/Publication/SSC2024.pdf" target="_blank" rel="noopener">SSC2024</a>]</span>
       <button class="btn copy-cite" data-cite="Li, Bangxi, Chong Liu, and Liang Chen. 2024. “The real–fictitious relationship in China’s economic development: An extension of Marx’s theory on the reproduction of aggregate social capital.” Social Sciences in China, no. 12: 23–43. (in Chinese)">Copy Citation</button>
     </div>
 
@@ -140,7 +140,7 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Economic Research Journal</em>, 2019, 54(3): 181–193.
-      <span class="pub-links">[<a href="/LiuChong/file/ERJ2019.pdf" target="_blank" rel="noopener">ERJ2019</a>]</span>
+      <span class="pub-links">[<a href="https://imarxtool.xyz/files/Publication/ERJ2019.pdf" target="_blank" rel="noopener">ERJ2019</a>]</span>
       <button class="btn copy-cite" data-cite="Li, Bangxi, Chong Liu, Feng Zhao, and Yanghua Huang. 2019. “Production structure, income distribution, and macroeconomic efficiency: An analytical framework and empirical study of Marxist political economy.” Economic Research Journal 54 (3): 181–193. (in Chinese)">Copy Citation</button>
     </div>
 
@@ -155,7 +155,7 @@ permalink: /research/
     <li>The 5th <strong>LIU Shibai Award in Economics</strong> (2020)</li>
     <li><strong>TOP 0.5%</strong> on Academic Influence among 2,952 Papers in Political Economy (2012–2019)</li>
     <li><strong>Translated into English and Reprinted</strong> by <em>China Political Economy</em>, 2021, 4(1): 110–127.
-    <span class="pub-links">[<a href="/LiuChong/file/CPE2021.pdf" target="_blank" rel="noopener">CPE2021</a>]</span>
+    <span class="pub-links">[<a href="https://imarxtool.xyz/files/Publication/CPE2021.pdf" target="_blank" rel="noopener">CPE2021</a>]</span>
     </li>
     </ul>
 
@@ -191,7 +191,7 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>China Review of Political Economy</em>, 2022, 13(6): 146–174.
-      <span class="pub-links">[<a href="/LiuChong/file/CRPE2022.pdf" target="_blank" rel="noopener">CRPE2022</a>]</span>
+      <span class="pub-links">[<a href="https://imarxtool.xyz/files/Publication/CRPE2022.pdf" target="_blank" rel="noopener">CRPE2022</a>]</span>
       <button class="btn copy-cite" data-cite="Liu, Chong, and Lirong Jiang. 2022. “The French regulation school: Core concepts, theoretical evolution, and theoretical implications.” China Review of Political Economy 13 (6): 146–174. (in Chinese)">Copy Citation</button>
     </div>
 
@@ -212,7 +212,7 @@ permalink: /research/
 
     <div class="pub-meta">
       <em>Evolutionary and Institutional Economics Review</em>, 2025, 22: 181–211.
-      <span class="pub-links">[<a href="/LiuChong/file/EIER2025.pdf" target="_blank" rel="noopener">EIER2025</a>]</span>
+      <span class="pub-links">[<a href="https://imarxtool.xyz/files/Publication/EIER2025.pdf" target="_blank" rel="noopener">EIER2025</a>]</span>
       <button class="btn copy-cite" data-cite="Liu, Chong, Bangxi Li, and Jim Huangnan Shen. 2025. “Accelerated depreciation and investment-driven growth: A Marx–Okishio approach.” Evolutionary and Institutional Economics Review 22: 181–211.">Copy Citation</button>
     </div>
 
@@ -230,6 +230,27 @@ permalink: /research/
     </li>
     </ul>
 
+  </li>
+
+  <!-- 6 -->
+  <li class="pub-item" id="pub-ne2026">
+    <div class="pub-title">
+      Hao Dou, Shuyan Jiang, Shiqi Shawn Ou, Han Hao, Ming Liu, Jingxuan Geng, Boyu Liu, Lang Mai, Xiaobo Qu, Yong Geng, Klaus Hubacek, Fanran Meng, David Reiner, Zia Wadud, James Tate, Yifan Wei, <u>Chong Liu</u>, Zongwei Liu, Fuquan Zhao and Xin Sun.
+      “Distributional Impacts of EU Tariffs on Chinese Electric Vehicles across European Markets”
+    </div>
+
+    <div class="pub-meta">
+      <em>Nature Energy</em>, 2026.
+      <span class="pub-links">[<a href="https://imarxtool.xyz/files/Publication/NE2026.pdf" target="_blank" rel="noopener">NE2026</a>]</span>
+      <button class="btn copy-cite" data-cite="Dou, Hao, Shuyan Jiang, Shiqi Shawn Ou, Han Hao, Ming Liu, Jingxuan Geng, Boyu Liu, Lang Mai, Xiaobo Qu, Yong Geng, Klaus Hubacek, Fanran Meng, David Reiner, Zia Wadud, James Tate, Yifan Wei, Chong Liu, Zongwei Liu, Fuquan Zhao, and Xin Sun. 2026. “Distributional impacts of EU tariffs on Chinese electric vehicles across European markets.” Nature Energy. https://doi.org/10.1038/s41560-026-02105-7.">Copy Citation</button>
+    </div>
+
+    <details class="abstract">
+      <summary><span class="caret">▸</span><span class="muted">Abstract</span></summary>
+      <div class="abstract-body">
+        In July 2024, the European Union (EU) introduced additional tariffs on battery electric vehicles imported from China. How these trade measures affect the pace and distribution of vehicle electrification depends on automakers’ response strategies. Here we combine model-level cost data with a market adoption framework to quantify how tariff-induced cost shocks propagate through total cost of ownership and reshape electric vehicle adoption across 20 EU countries and 10 vehicle classes. We find that, depending on automaker responses, the EU-wide electric vehicle share in 2035 ranges from 56.4% (market withdrawal) to 68.9% (low-cost onshoring), compared with 64.4% under a business-as-usual projection. Adoption losses are concentrated in price-sensitive classes and lower-income countries that rely heavily on affordable China-produced battery electric vehicles, while onshoring production can partially offset tariff impacts and accelerate electrification. Our findings highlight the distributional consequences of uniform trade interventions and underscore the importance of aligning trade and industrial policy to support a resilient and inclusive transition.
+      </div>
+    </details>
   </li>
 
 </ol>
